@@ -11,13 +11,13 @@ This pipeline also requires target allergen gene sequences, which are listed in 
 
 For each sample, running
 ```
-perl pipeline.pl sample1_R1.fq.gz sample1_R2.fq.gz > sample1.mappedGene.txt
+perl pipeline.pl sample1_R1.fq.gz sample1_R2.fq.gz > sample1.mappedGene
 ```
 where *sample1_R1.fq.gz* and *sample1_R2.fq.gz* are compressed fastq files of sample1.
 
 The following command is apply to annotate the results.
 ```
-R CMD BATCH --no-save --no-restore '--args f="sample1.mappedGene.txt"' annoMappedGene.R
+R CMD BATCH --no-save --no-restore '--args f="sample1.mappedGene"' annoMappedGene.R
 ```
 
 
