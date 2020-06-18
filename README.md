@@ -7,4 +7,6 @@ Following external tools are required:
 2. perl 5
 3. R 3.6.1
 
+This pipeline also requires target allergen gene sequences, which are listed in a fasta file "allergens.fa".
+
 For each sample, 
