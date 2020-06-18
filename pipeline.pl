@@ -28,7 +28,9 @@ my %h;
 foreach my $f (@FILES)
 {
 	my $outF = "$f\.sam";
-	my $tmp = `bowtie2 -x $ref -U $f -S $outF`;
+	my $outLog = "$f\.log";
+	my $outErr = "$f\.err";
+	my $tmp = `bowtie2 -x $ref -U $f -S $outF 1>$outLog 2>$outErr`;
 	open IN, "$outF" or die "cannot open $outF\n";
 
 	while(my $line = <IN>)
