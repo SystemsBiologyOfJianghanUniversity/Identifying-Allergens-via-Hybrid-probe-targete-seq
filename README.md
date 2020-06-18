@@ -11,3 +11,6 @@ This pipeline also requires target allergen gene sequences, which are listed in 
 
 For each sample, running
 > perl pipeline.pl sample1_R1.fq.gz sample1_R2.fq.gz > sample1.mappedGene.txt
+where *sample1_R1.fq.gz* and *sample1_R2.fq.gz* are compressed fastq files of sample1.
+
+
