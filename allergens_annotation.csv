@@ -1,0 +1,3262 @@
+﻿"排序","X.Allergen.name..致敏原名称","Lineage.来源","Biochemical.name.生化名称","Isoallergen.and.variants.变应原和变异体","GenBank.Nucleotide.核苷酸GenBank"
+"1","Bos d 4","Bos domesticus Bos taurus (domestic cattle)
+家养牛","Alpha-lactalbumin
+α-乳清蛋白","Bos d 4.0101","M18780"
+"2","Bos d 5","Bos domesticus Bos taurus (domestic cattle)
+家养牛","Beta-lactoglobulin
+β-乳清蛋白","Bos d 5.0101","X14712"
+"3","Bos d 6","Bos domesticus Bos taurus (domestic cattle)
+家养牛","Serum albumin
+血清白蛋白","Bos d 6.0101","M73993"
+"6","Bos d 9","Bos domesticus Bos taurus (domestic cattle)
+家养牛","alphaS1-casein
+α1酪蛋白","Bos d 9.0101","NM_181029"
+"7","Bos d 10","Bos domesticus Bos taurus (domestic cattle)
+家养牛","alphaS2-casein
+α2酪蛋白","Bos d 10.0101","NM_174528"
+"8","Bos d 11","Bos domesticus Bos taurus (domestic cattle)
+家养牛","beta-casein
+β-酪蛋白","Bos d 11.0101","XM_005902037"
+"9","Bos d 12","Bos domesticus Bos taurus (domestic cattle)
+家养牛","kappa-casein
+κ-酪蛋白","Bos d 12.0101","NM_174294"
+"11","Ani s 1","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","unknown function, similar to Kunitz serine protease inhibitors
+未知的功能相似，两个Kunitz型丝氨酸蛋白酶抑制剂","Ani s 1.0101","AB100095"
+"12","Ani s 2","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Paramyosin
+副肌球蛋白","Ani s 2.0101","AF173004"
+"13","Ani s 3","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Tropomyosin
+原肌球蛋白","Ani s 3.0101","Y19221"
+"14","Ani s 4","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Cysteine protease inhibitor
+半胱氨酸蛋白酶抑制剂","Ani s 4.0101","AM279414"
+"15","Ani s 5","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","SXP/RAL-2 family protein
+SXP/RAL-2家族蛋白","Ani s 5.0101","AB274998"
+"16","Ani s 6","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Serine protease inhibitor
+丝氨酸蛋白酶抑制剂","Ani s 6.0101","AB274999"
+"17","Ani s 7","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","-","Ani s 7.0101","EF158010"
+"18","Ani s 8","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","SXP/RAL-2 family protein
+SXP/RAL-2家族蛋白","Ani s 8.0101","AB300625"
+"19","Ani s 9","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","SXP/RAL-2 family protein
+SXP/RAL-2家族蛋白","Ani s 9.0101","EU074790"
+"20","Ani s 10","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Protein with unknown function
+功能未知的蛋白质","Ani s 10.0101","GU187358"
+"21","Ani s 11","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Protein with unknown function
+功能未知的蛋白质","Ani s 11.0101","AB555754"
+"22","Ani s 12","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Protein with unknown function
+功能未知的蛋白质","Ani s 12.0101","AB555757"
+"23","Ani s 13","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","Hemoglobin
+血红蛋白","Ani s 13.0101","JX860676.1"
+"24","Ani s 14","Anisakis simplex (Herring worm)
+鲱鱼蠕虫","3rd stage larval protein unknown function
+第三阶段幼虫蛋白未知功能","Ani s 14.0101","LC027371"
+"25","Clu h 1","Clupea harengus (Atlantic herring)
+大西洋鲱鱼（大西洋鲱鱼）","Beta-parvalbumin
+β-小清蛋白","Clu h 1.0101","FM178220"
+"25","Clu h 1","Clupea harengus (Atlantic herring)
+大西洋鲱鱼（大西洋鲱鱼）","Beta-parvalbumin
+β-小清蛋白","Clu h 1.0201","FM178221"
+"25","Clu h 1","Clupea harengus (Atlantic herring)
+大西洋鲱鱼（大西洋鲱鱼）","Beta-parvalbumin
+β-小清蛋白","Clu h 1.0301","FM178222"
+"27","Lep w 1","Lepidorhombus whiffiagonis (Megrim, Whiff, Turbot fish)
+鳞翅目鱼类（多宝鱼，比目鱼）","Beta-parvalbumin
+β-小清蛋白","Lep w 1.0101","AM904681"
+"28","Ran e 1","Rana esculenta (edible frog)
+食用蛙","Alpha-parvalbumin
+α-小清蛋白","Ran e 1.0101","AJ315959"
+"29","Ran e 2","Rana esculenta (edible frog)
+食用蛙","Beta-parvalbumin
+β-小清蛋白","Ran e 2.0101","AJ414730"
+"30","Sal s 1","Salmo salar (Atlantic salmon)
+大西洋鲑鱼","Beta-parvalbumin 1
+β-小清蛋白1","Sal s 1.0101","X97824"
+"31","Sal s 2","Salmo salar (Atlantic salmon)
+大西洋鲑鱼","Beta-Enolase
+β-烯醇化酶","Sal s 2.0101","BT043816"
+"31","Sal s 2","Salmo salar (Atlantic salmon)
+大西洋鲑鱼","Beta-Enolase
+β-烯醇化酶","Sal s 2.0101","BT043817"
+"32","Sal s 3","Salmo salar (Atlantic salmon)
+大西洋鲑鱼","Aldolase A
+醛缩酶A","Sal s 3.0101","BT043786"
+"33","Sar sa 1","Sardinops sagax (Pacific pilchard)
+沙丁鱼","Beta-parvalbumin
+β-小清蛋白","Sar sa 1.0101","FM177701"
+"34","Seb m 1","Sebastes marinus (Ocean perch, redfish, snapper)
+海鲈(海鲈、红鱼、鲷鱼)","Beta-parvalbumin
+β-小清蛋白","Seb m 1.0101","FM178218"
+"34","Seb m 1","Sebastes marinus (Ocean perch, redfish, snapper)
+海鲈(海鲈、红鱼、鲷鱼)","Beta-parvalbumin
+β-小清蛋白","Seb m 1.0201","FM178219"
+"35","Thu a 1","Thunnus albacares (Yellowfin tuna)
+长鳍金枪鱼","Beta-parvalbumin
+β-小清蛋白","Thu a 1.0101","FM178217"
+"39","Xip g 1","Xiphias gladius (Swordfish)
+剑鱼
+","Beta-parvalbumin
+β-小清蛋白","Xip g 1.0101","FM202668"
+"40","Gad m 1","Gadus morhua (Atlantic cod)
+大西洋鳕鱼","Beta-parvalbumin
+β-小清蛋白","Gad m 1.0101","AY035584"
+"40","Gad m 1","Gadus morhua (Atlantic cod)
+大西洋鳕鱼","Beta-parvalbumin
+β-小清蛋白","Gad m 1.0102","AM497927"
+"40","Gad m 1","Gadus morhua (Atlantic cod)
+大西洋鳕鱼","Beta-parvalbumin
+β-小清蛋白","Gad m 1.0201","AY035585"
+"40","Gad m 1","Gadus morhua (Atlantic cod)
+大西洋鳕鱼","Beta-parvalbumin
+β-小清蛋白","Gad m 1.0202","AM497928"
+"43","Ore m 4","Oreochromis mossambicus (Mozambique tilapia)
+奥利亚罗非鱼（莫桑比克罗非鱼）","Tropomyosin
+原肌球蛋白","Ore m 4.0101","JX193712"
+"44","Onc k 5","Oncorhynchus keta (Chum salmon)
+大马哈鱼","beta-prime-component of vitellogenin
+卵黄蛋白原的β-prime组分","Onc k 5.0101","AB560769"
+"45","Lat c 1","Lates calcarifer (Barramundi)
+尖吻鲈（尖吻鲈）","Beta-parvalbumin
+β-小清蛋白","Lat c 1.0101","AY688372"
+"45","Lat c 1","Lates calcarifer (Barramundi)
+尖吻鲈（尖吻鲈）","Beta-parvalbumin
+β-小清蛋白","Lat c 1.0101","KF021278"
+"45","Lat c 1","Lates calcarifer (Barramundi)
+尖吻鲈（尖吻鲈）","Beta-parvalbumin
+β-小清蛋白","Lat c 1.0201","AY626068"
+"45","Lat c 1","Lates calcarifer (Barramundi)
+尖吻鲈（尖吻鲈）","Beta-parvalbumin
+β-小清蛋白","Lat c 1.0201","AY688373"
+"45","Lat c 1","Lates calcarifer (Barramundi)
+尖吻鲈（尖吻鲈）","Beta-parvalbumin
+β-小清蛋白","Lat c 1.0201","KF021279"
+"46","Cyp c 1","Cyprinus carpio (Common carp)
+鲤鱼（鲤鱼）","Beta-parvalbumin
+β-小清蛋白","Cyp c 1.0101","AJ292211"
+"46","Cyp c 1","Cyprinus carpio (Common carp)
+鲤鱼（鲤鱼）","Beta-parvalbumin
+β-小清蛋白","Cyp c 1.0201","AJ292212"
+"47","Ras k 1","Rastrelliger kanagurta (Indian Mackerel)
+印度鲭","Parvalbumin
+小清蛋白","Ras k 1.0101","KX527884"
+"50","Sco 1","Scomber scombrus (Atlantic mackerel)
+大西洋鲭","Scomber scombrus (Atlantic mackerel)
+（大西洋鲭鱼）","Sco 1.0101","FM994926"
+"52","Gly m 3","Glycine max (Soybean)
+大豆（大豆）","Profilin
+肌动蛋白","Gly m 3.0101","AJ223982"
+"52","Gly m 3","Glycine max (Soybean)
+大豆（大豆）","Profilin
+肌动蛋白","Gly m 3.0102","AJ223981"
+"53","Gly m 4","Glycine max (Soybean)
+大豆（大豆）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Gly m 4.0101","X60043"
+"54","Gly m 5","Glycine max (Soybean)
+大豆（大豆）","Beta-conglycinin (vicilin, 7S globulin)
+β-伴大豆球蛋白（豌豆球蛋白，7S球蛋白）","Gly m 5.0101","AB008678"
+"54","Gly m 5","Glycine max (Soybean)
+大豆（大豆）","Beta-conglycinin (vicilin, 7S globulin)
+β-伴大豆球蛋白（豌豆球蛋白，7S球蛋白）","Gly m 5.0201","AB008680"
+"54","Gly m 5","Glycine max (Soybean)
+大豆（大豆）","Beta-conglycinin (vicilin, 7S globulin)
+β-伴大豆球蛋白（豌豆球蛋白，7S球蛋白）","Gly m 5.0301","S44893"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0101","M36686"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0101","AB113349"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0201","D00216"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0301","X15123"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0401","AB004062"
+"55","Gly m 6","Glycine max (Soybean)
+大豆（大豆）","Glycinin (legumin, 11S globulin)
+大豆球蛋白（豆球蛋白，11S球蛋白）","Gly m 6.0501","AB049440"
+"56","Gly m 7","Glycine max (Soybean)
+大豆（大豆）","Seed biotinylated protein
+种子生物素化蛋白质","Gly m 7.0101","GQ168590"
+"57","Gly m 8","Glycine max (Soybean)
+大豆（大豆）","2S albumin
+2S白蛋白","Gly m 8.0101","AF005030"
+"58","Pha v 3","Phaseolus vulgaris (Green bean, French bean)
+绿豆，法国豆","non-specific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Pha v 3.0101","GQ434007"
+"58","Pha v 3","Phaseolus vulgaris (Green bean, French bean)
+绿豆，法国豆","non-specific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Pha v 3.0201","GQ434008"
+"59","Pis s 1","Pisum sativum (Pea)
+豌豆","Vicilin
+豌豆球蛋白","Pis s 1.0101","AJ626897"
+"59","Pis s 1","Pisum sativum (Pea)
+豌豆","Vicilin
+豌豆球蛋白","Pis s 1.0102","AJ626898"
+"60","Pis s 2","Pisum sativum (Pea)
+豌豆","Convicilin
+","Pis s 2.0101","AJ276875.1"
+"61","Pis s 3","Pisum sativum (Pea)
+豌豆","nsLTP","Pis s 3.0101","KJ569141"
+"62","Ric c 1","Ricinus communis (Castor bean)
+蓖麻（蓖麻子）","2S albumin
+2S白蛋白","Ric c 1.0101","X54158"
+"63","Vig r 1","Vigna radiata (Mung bean)
+绿豆","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Vig r 1.0101","AY792956"
+"64","Vig r 2","Vigna radiata (Mung bean)
+绿豆","8S Globulin (Vicilin)
+8S球蛋白","Vig r 2.0101","DQ538335"
+"64","Vig r 2","Vigna radiata (Mung bean)
+绿豆","8S Globulin (Vicilin)
+8S球蛋白","Vig r 2.0201","EF990627"
+"66","Vig r 4","Vigna radiata (Mung bean)
+绿豆","Seed albumin
+种子白蛋白","Vig r 4.0101","X70671"
+"68","Vig r 6","Vigna radiata (Mung bean)
+绿豆","Cytokinin-specific binding protein (CSBP), Bet v 1 family member
+细胞分裂素特异性结合蛋白(CSBP)， Bet v1家族成员","Vig r 6.0101","AB012218"
+"69","Lup a 5","Lupinus albus (white lupine)
+羽扇豆（白羽扇豆）","Profilin
+肌动蛋白","Lup a 5.0101","FG090100"
+"70","Arc s 8","Archaeopotamobius sibiriensis (Crustacean species decapod)
+十足甲壳类","Triosephosphate isomerase
+磷酸丙糖异构酶","Arc s 8.0101","AJ439988"
+"71","Art fr 5","Artemia franciscana (Brine shrimp)
+卤虫（盐水虾）","Myosin, light chain 1
+肌球蛋白，轻链1","Art fr 5.0101","EF660909"
+"72","Cha f 1","Charybdis feriatus (Crab)
+费里托斯（螃蟹）","Tropomyosin
+原肌球蛋白","Cha f 1.0101","AF061783"
+"73","Cra c 1","Crangon crangon (North Sea shrimp)
+（北海虾）","Tropomyosin
+原肌球蛋白","Cra c 1.0101","FJ457621"
+"74","Cra c 2","Crangon crangon (North Sea shrimp)
+（北海虾）","Arginine kinase
+精氨酸激酶","Cra c 2.0101","FJ457622"
+"75","Cra c 4","Crangon crangon (North Sea shrimp)
+（北海虾）","Sarcoplasmic calcium-binding protein
+肌浆钙结合蛋白","Cra c 4.0101","FJ462737"
+"76","Cra c 5","Crangon crangon (North Sea shrimp)
+（北海虾）","Myosin, light chain 1
+肌球蛋白，轻链1","Cra c 5.0101","FJ462739"
+"77","Cra c 6","Crangon crangon (North Sea shrimp)
+（北海虾）","Troponin C
+肌钙蛋白C.","Cra c 6.0101","FJ462740"
+"78","Cra c 8","Crangon crangon (North Sea shrimp)
+（北海虾）","Triosephosphate isomerase
+磷酸丙糖异构酶","Cra c 8.0101","FJ462738"
+"80","Hel as 1","Helix aspersa (Brown garden snail)
+螺旋体(褐色花园蜗牛)","Tropomyosin
+原肌球蛋白","Hel as 1.0101","Y14855"
+"81","Hom a 1","Homarus americanus (American lobster)
+美国龙虾","Tropomyosin
+原肌球蛋白","Hom a 1.0101","AF034953"
+"81","Hom a 1","Homarus americanus (American lobster)
+美国龙虾","Tropomyosin
+原肌球蛋白","Hom a 1.0102","AF034954"
+"82","Hom a 3","Homarus americanus (American lobster)
+美国龙虾","Myosin light chain 2
+肌球蛋白轻链2","Hom a 3.0101","EH115965"
+"84","Lit v 1","Litopenaeus vannamei (White shrimp)
+白虾","Tropomyosin
+原肌球蛋白","Lit v 1.0101","EU410072"
+"85","Lit v 2","Litopenaeus vannamei (White shrimp)
+白虾","Arginine kinase
+精氨酸激酶","Lit v 2.0101","DQ975203"
+"86","Lit v 3","Litopenaeus vannamei (White shrimp)
+白虾","Myosin, light chain 2
+肌球蛋白轻链2","Lit v 3.0101","EU449515"
+"87","Lit v 4","Litopenaeus vannamei (White shrimp)
+白虾","Sarcoplasmic calcium-binding protein
+肌浆钙结合蛋白","Lit v 4.0101","FJ184279"
+"88","Met e 1","Metapenaeus ensis (Shrimp)
+甲壳纲动物(虾)","Tropomyosin
+原肌球蛋白","Met e 1.0101","U08008"
+"89","Pan s 1","Panulirus stimpsoni (Spiny lobster)
+刺山柑(刺龙虾)","Tropomyosin
+原肌球蛋白","Pan s 1.0101","AF030063"
+"90","Pen a 1","Penaeus aztecus (Brown shrimp)
+青虾","Tropomyosin
+原肌球蛋白","Pen a 1.0101","DQ151457"
+"92","Pen m 1","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Tropomyosin
+原肌球蛋白","Pen m 1.0101","AY827100"
+"92","Pen m 1","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Tropomyosin
+原肌球蛋白","Pen m 1.0101","AB270629"
+"92","Pen m 1","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Tropomyosin
+原肌球蛋白","Pen m 1.0101","HM486525"
+"93","Pen m 2","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Arginine kinase
+精氨酸激酶","Pen m 2.0101","AF479772"
+"94","Pen m 3","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Myosin light chain 2
+肌球蛋白轻链2","Pen m 3.0101","HM034314"
+"94","Pen m 3","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Myosin light chain 2
+肌球蛋白轻链2","Pen m 3.0101","HM486526"
+"95","Pen m 4","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Sarcoplasmic calcium binding protein
+肌浆钙结合蛋白","Pen m 4.0101","HM034315"
+"96","Pen m 6","Penaeus monodon (Black tiger shrimp)
+毛对虾(黑虎虾)","Troponin C
+肌钙蛋白C.","Pen m 6.0101","HM034316"
+"99","Pan b 1","Pandalus borealis (Northern shrimp)
+北方对虾","Tropomyosin
+原肌球蛋白","Pan b 1.0101","FR728681"
+"100","Por p 1","Portunus pelagicus (Blue swimmer crab)
+梭子蟹(青梭子蟹)","Tropomyosin
+原肌球蛋白","Por p 1.0101","JX874982"
+"101","Mac r 1","Macrobrachium rosenbergii (giant freshwater prawn)
+罗氏沼虾(大虾)","Tropomyosin
+原肌球蛋白","Mac r 1.0101","GU369816"
+"102","Mel l 1","Melicertus latisulcatus (King Prawn)","Tropomyosin
+原肌球蛋白","Mel l 1.0101","JX171685"
+"103","Eri s 2","Eriocheir sinensis (Eriocheir sinensis)
+中华绒螯蟹","ovary development-related protein
+卵巢发育相关蛋白","Eri s 2.0101","AY185917"
+"104","Hal l 1","Haliotis laevigata x Haliotis rubra (Jade tiger abaolone)
+玉虎鲍鱼","Tropomyosin
+原肌球蛋白","Hal l 1.0101","KX961689"
+"105","Cra g 1","Crassostrea gigas (Pacific Oyster)
+太平洋牡蛎","Tropomyosin
+原肌球蛋白","Cra g 1.0101","KY549366.1"
+"105","Cra g 1","Crassostrea gigas (Pacific Oyster)
+太平洋牡蛎","Tropomyosin
+原肌球蛋白","Cra g 1.0102","AB444943.1"
+"106","Sac g 1","Saccostrea glomerata (Sydney Rock Oyster)
+(悉尼岩牡蛎)","Tropomyosin
+原肌球蛋白","Sac g 1.0101","MF996471"
+"107","Pro c 1","Procambarus clarkii (Red Swamp Crayfish)
+克氏原螯虾（红沼泽小龙虾）","Tropomyosin
+原肌球蛋白","Pro c 1.0101","FJ769183"
+"108","Pro c 2","Procambarus clarkii (Red Swamp Crayfish)
+克氏原螯虾（红沼泽小龙虾）","Arginine kinase
+精氨酸激酶","Pro c 2.0101","JN828651"
+"109","Pro c 5","Procambarus clarkii (Red Swamp Crayfish)
+克氏原螯虾（红沼泽小龙虾）","Myosin light chain 1
+肌球蛋白轻链1","Pro c 5.0101","JX173714"
+"110","Pro c 8","Procambarus clarkii (Red Swamp Crayfish)
+克氏原螯虾（红沼泽小龙虾）","Triosephosphate isomerase
+磷酸丙糖异构酶","Pro c 8.0101","HQ414580"
+"111","Scy p 2","Sylla paramamosain (Mud Crab)
+泥蟹","Arginine kinase
+精氨酸激酶","Scy p 2.0101","JN828652"
+"112","Scy p 4","Sylla paramamosain (Mud Crab)
+泥蟹","Sarcoplasmic Ca+ binding protein
+肌浆Ca +结合蛋白","Scy p 4.0101","JQ860424"
+"113","Scy p 8","Sylla paramamosain (Mud Crab)
+泥蟹","Triosephosphate isomerase
+磷酸丙糖异构酶","Scy p 8.0101","KX083344"
+"115","Ana o 1","Anacardium occidentale (Cashew)
+西腰果(腰果)","Vicilin-like protein
+维生素样蛋白质","Ana o 1.0101","AF395894"
+"115","Ana o 1","Anacardium occidentale (Cashew)
+西腰果(腰果)","Vicilin-like protein
+维生素样蛋白质","Ana o 1.0102","AF395893"
+"116","Ana o 2","Anacardium occidentale (Cashew)
+西腰果(腰果)","Legumin-like protein
+豆科蛋白样蛋白质","Ana o 2.0101","AF453947"
+"117","Ana o 3","Anacardium occidentale (Cashew)
+西腰果(腰果)","2S albumin
+2S白蛋白","Ana o 3.0101","AY081853"
+"118","Ara h 1","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Cupin (Vicillin-type, 7S globulin)
+Cupin（Vicillin型，7S球蛋白）","Ara h 1.0101","L34402"
+"119","Ara h 2","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 2.0101","AY007229"
+"119","Ara h 2","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 2.0201","AY158467"
+"120","Ara h 3","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Cupin (Legumin-type, 11S globulin, Glycinin)
+Cupin（豆科蛋白型，11S球蛋白，大豆球蛋白）","Ara h 3.0101","AF093541"
+"120","Ara h 3","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Cupin (Legumin-type, 11S globulin, Glycinin)
+Cupin（豆科蛋白型，11S球蛋白，大豆球蛋白）","Ara h 3.0201","AF086821"
+"122","Ara h 5","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Profilin
+肌动蛋白","Ara h 5.0101","AF059616"
+"123","Ara h 6","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 6.0101","AF092846"
+"124","Ara h 7","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 7.0101","AF091737"
+"124","Ara h 7","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 7.0201","EU046325"
+"124","Ara h 7","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Conglutin (2S albumin)
+Conglutin（2S白蛋白）","Ara h 7.0301","AY722691"
+"125","Ara h 8","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Ara h 8.0101","AY328088"
+"125","Ara h 8","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Ara h 8.0201","EF436550"
+"126","Ara h 9","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Nonspecific lipid-transfer protein type 1
+非特异性脂质转移蛋白1型","Ara h 9.0101","EU159429"
+"126","Ara h 9","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Nonspecific lipid-transfer protein type 1
+非特异性脂质转移蛋白1型","Ara h 9.0201","EU161278"
+"127","Ara h 10","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","16 kDa oleosin
+16 kDa油质蛋白","Ara h 10.0101","AY722694"
+"127","Ara h 10","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","16 kDa oleosin
+16 kDa油质蛋白","Ara h 10.0102","AY722695"
+"128","Ara h 11","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","14 kDa oleosin
+14 kDa油质蛋白","Ara h 11.0101","DQ097716"
+"129","Ara h 12","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Defensin
+防御蛋白","Ara h 12.0101","EY396089"
+"130","Ara h 13","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Defensin
+防御蛋白","Ara h 13.0101","EY396019"
+"130","Ara h 13","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Defensin
+防御蛋白","Ara h 13.0102","EE124955"
+"131","Ara h 14","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Oleosin
+油体蛋白","Ara h 14.0101","AF325917"
+"131","Ara h 14","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Oleosin
+油体蛋白","Ara h 14.0102","AF325918"
+"131","Ara h 14","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Oleosin
+油体蛋白","Ara h 14.0103","AY605694"
+"132","Ara h 15","Arachis hypogaea (Peanut, groundnut)
+花生(花生，落花生)","Oleosin
+油体蛋白","Ara h 15.0101","AY722696"
+"135","Ber e 1","Bertholletia excelsa (Brazil nut)
+巴西坚果","2S sulfur-rich seed storage albumin
+2S富含硫的种子储存白蛋白","Ber e 1.0101","M17146"
+"136","Ber e 2","Bertholletia excelsa (Brazil nut)
+巴西坚果","11S globulin seed storage protein
+11S球蛋白种子贮藏蛋白","Ber e 2.0101","AY221641"
+"137","Car i 1","Carya illinoinensis (Pecan)
+山核桃","2S albumin seed storage protein
+2S白蛋白种子贮藏蛋白","Car i 1.0101","AY192569"
+"138","Car i 2","Carya illinoinensis (Pecan)
+山核桃","Vicilinlike protein
+豌豆球蛋白样蛋白","Car i 2.0101","EF689893"
+"139","Car i 4","Carya illinoinensis (Pecan)
+山核桃","Legumin seed storage protein
+豆科蛋白种子贮藏蛋白","Car i 4.0101","EU113051"
+"140","Cas s 5","Castanea sativa (Chestnut)
+板栗","Chitinase
+几丁质酶","Cas s 5.0101","U48687"
+"142","Cas s 9","Castanea sativa (Chestnut)
+板栗","Cytosolic class I small heat shock protein
+细胞溶质I类小热休克蛋白","Cas s 9.0101","AJ582679"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0101","X70999"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0102","X71000"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0103","X70997"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0104","X70998"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0201","Z72439"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0301","Z72440"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0401","AF136945"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0402","AF323973"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0403","AF323974"
+"143","Cor a 1","Corylus avellana (Hazelnut)
+榛子","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Cor a 1.0404","AF323975"
+"144","Cor a 2","Corylus avellana (Hazelnut)
+榛子","Profilin
+肌动蛋白","Cor a 2.0101","AF327622"
+"144","Cor a 2","Corylus avellana (Hazelnut)
+榛子","Profilin
+肌动蛋白","Cor a 2.0102","AF327623"
+"145","Cor a 8","Corylus avellana (Hazelnut)
+榛子","Non-specific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Cor a 8.0101","AF329829"
+"146","Cor a 9","Corylus avellana (Hazelnut)
+榛子","11S seed storage globulin (legumin-like)
+11S种子贮藏球蛋白（豆科蛋白样）","Cor a 9.0101","AF449424"
+"147","Cor a 11","Corylus avellana (Hazelnut)
+榛子","7S seed storage globulin (vicilin-like)
+7S种子贮藏球蛋白（豌豆球蛋白样）","Cor a 11.0101","AF441864"
+"148","Cor a 12","Corylus avellana (Hazelnut)
+榛子","17 kDa oleosin
+17 kDa油质蛋白","Cor a 12.0101","AY224679"
+"149","Cor a 13","Corylus avellana (Hazelnut)
+榛子","14-16 kDa oleosin
+14-16 kDa油质蛋白","Cor a 13.0101","AY224599"
+"150","Cor a 14","Corylus avellana (Hazelnut)
+榛子","2S albumin
+2S白蛋白","Cor a 14.0101","FJ358504"
+"151","Jug n 1","Juglans nigra (Black walnut)
+胡桃木","2S albumin seed storage protein
+2S白蛋白种子贮藏蛋白","Jug n 1.0101","AY102930"
+"152","Jug n 2","Juglans nigra (Black walnut)
+胡桃木","Vicilin seed storage protein
+豌豆种子贮藏蛋白","Jug n 2.0101","AY102931"
+"153","Jug n 4","Juglans nigra (Black walnut)
+胡桃木","Legumin
+球蛋白","Jug n 4.0101","KX891230"
+"154","Jug r 1","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","2S albumin seed storage protein
+2S白蛋白种子贮藏蛋白","Jug r 1.0101","U66866"
+"155","Jug r 2","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","Vicilin seed storage protein
+Vicilin种子贮藏蛋白","Jug r 2.0101","AF066055"
+"156","Jug r 3","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Jug r 3.0101","EU780670"
+"157","Jug r 4","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","11S globulin seed storage protein
+11S球蛋白种子贮藏蛋白","Jug r 4.0101","AY692446"
+"158","Jug r 5","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","PR-10","Jug r 5.0101","KX034087.1"
+"159","Jug r 6","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","vicilin-like cupin","Jug r 6.0101","XM_018959147.1"
+"160","Jug r 7","Juglans regia (English walnut)
+胡桃木(英国胡桃木)","Profilin
+肌动蛋白","Jug r 7.0101","MG366484"
+"162","Pis v 1","Pistacia vera (Pistachio)
+开心果(开心果)","2S albumin
+2S白蛋白","Pis v 1.0101","DQ631675"
+"163","Pis v 2","Pistacia vera (Pistachio)
+开心果(开心果)","11S globulin subunit
+11S球蛋白亚基","Pis v 2.0101","DQ631676"
+"163","Pis v 2","Pistacia vera (Pistachio)
+开心果(开心果)","11S globulin subunit
+11S球蛋白亚基","Pis v 2.0201","DQ631677"
+"164","Pis v 3","Pistacia vera (Pistachio)
+开心果(开心果)","vicillin","Pis v 3.0101","EF116865"
+"165","Pis v 4","Pistacia vera (Pistachio)
+开心果(开心果)","manganese superoxide dismutase
+锰超氧化物歧化酶","Pis v 4.0101","EF470980"
+"166","Pis v 5","Pistacia vera (Pistachio)
+开心果(开心果)","11S globulin subunit
+11S球蛋白亚基","Pis v 5.0101","EU410073"
+"167","Pru du 3","Prunus dulcis (Almond)
+（杏仁）","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Pru du 3.0101","FJ652103"
+"168","Pru du 4","Prunus dulcis (Almond)
+（杏仁）","Profilin
+肌动蛋白","Pru du 4.0101","AY081850"
+"168","Pru du 4","Prunus dulcis (Almond)
+（杏仁）","Profilin
+肌动蛋白","Pru du 4.0102","AY081852"
+"169","Pru du 5","Prunus dulcis (Almond)
+（杏仁）","60s acidic ribosomal prot. P2
+60s酸性核糖体蛋白。P2","Pru du 5.0101","DQ836316"
+"170","Pru du 6","Prunus dulcis (Almond)
+（杏仁）","Amandin, 11S globulin legumin-like protein
+Amandin，11S球蛋白豆球蛋白样蛋白","Pru du 6.0101","GU059260"
+"170","Pru du 6","Prunus dulcis (Almond)
+（杏仁）","Amandin, 11S globulin legumin-like protein
+Amandin，11S球蛋白豆球蛋白样蛋白","Pru du 6.0201","GU059261"
+"172","Hor v 12","Hordeum vulgare (Barley)
+大麦芽(大麦)","Profilin
+肌动蛋白","Hor v 12.0101","U49505"
+"173","Hor v 15","Hordeum vulgare (Barley)
+大麦芽(大麦)","Alpha-amylase inhibitor BMAI-1 precursor
+α-淀粉酶抑制剂BMAI-1前体","Hor v 15.0101","X63517"
+"176","Hor v 20","Hordeum vulgare (Barley)
+大麦芽(大麦)","Gamma-hordein 3
+γ-大麦醇溶蛋白3","Hor v 20.0101","X72628"
+"176","Hor v 20","Hordeum vulgare (Barley)
+大麦芽(大麦)","Gamma-hordein 3
+γ-大麦醇溶蛋白3","Tri a 14.0201","FN391139"
+"176","Hor v 20","Hordeum vulgare (Barley)
+大麦芽(大麦)","Agglutinin isolectin 1","Tri a 18.0101","M25536"
+"181","Tri a 19","Triticum aestivum (Wheat)
+小麦(小麦)","Omega-5 gliadin, seed storage protein
+Omega-5麦醇溶蛋白，种子贮藏蛋白","Tri a 19.0101","AB181300"
+"182","Tri a 20","Triticum aestivum (Wheat)
+小麦(小麦)","Gamma gliadin
+伽玛麦醇溶蛋白","Tri a 20.0101","AB766206"
+"183","Tri a 25","Triticum aestivum (Wheat)
+小麦(小麦)","Thioredoxin
+硫氧还蛋白","Tri a 25.0101","AJ404845"
+"184","Tri a 26","Triticum aestivum (Wheat)
+小麦(小麦)","High molecular weight glutenin
+高分子量麦谷蛋白","Tri a 26.0101","X12928"
+"184","Tri a 26","Triticum aestivum (Wheat)
+小麦(小麦)","High molecular weight glutenin
+高分子量麦谷蛋白","Tri a 26.0201","DQ119142"
+"185","Tri a 36","Triticum aestivum (Wheat)
+小麦(小麦)","Low molecular weight glutenin GluB3-23
+低分子量谷蛋白GluB3-23","Tri a 36.0101","JF776367"
+"186","Tri a 37","Triticum aestivum (Wheat)
+小麦(小麦)","Alpha purothionin
+α蛋氨酸","Tri a 37.0101","X96446"
+"187","Tri a 41","Triticum aestivum (Wheat)
+小麦(小麦)","Mitochondrial ubiquitin ligase activator of NFKB 1
+NFKB 1的线粒体泛素连接酶激活剂","Tri a 41.0101","KP399785"
+"188","Tri a 42","Triticum aestivum (Wheat)
+小麦(小麦)","Hypothetical protein from cDNA
+来自cDNA的假定蛋白质","Tri a 42.0101","KP399783"
+"189","Tri a 43","Triticum aestivum (Wheat)
+小麦(小麦)","Hypothetical protein from cDNA
+来自cDNA的假定蛋白质","Tri a 43.0101","KP399784"
+"190","Tri a 44","Triticum aestivum (Wheat)
+小麦(小麦)","Endosperm transfer cell specific PR60 precursor
+胚乳转移细胞特异性PR60前体","Tri a 44.0101","KP399787"
+"191","Tri a 45","Triticum aestivum (Wheat)
+小麦(小麦)","Elongation factor 1 (EIF1)
+伸长因子1（EIF1）","Tri a 45.0101","KP399782"
+"192","Fag e 2","Fagopyrum esculentum (Common buckwheat)
+荞麦","2S albumin
+2S白蛋白","Fag e 2.0101","DQ304682"
+"193","Fag e 3","Fagopyrum esculentum (Common buckwheat)
+荞麦","Vicilin
+豌豆球蛋白","Fag e 3.0101","EF532322"
+"195","Fag e 5","Fagopyrum esculentum (Common buckwheat)
+荞麦","Vicilin-like protein
+维生素样蛋白质","Fag e 5.0101","AY536051"
+"196","Fag t 2","Fagopyrum tataricum (Tartarian buckwheat)
+荞麦粉","2S albumin
+2S白蛋白","Fag t 2.0101","HQ829975"
+"197","Tri tu 14","Triticum turgidum ssp durum (Durum wheat)
+（硬粒小麦）","nsLipid transfer protein 1
+nsLipid转移蛋白1","Tri tu 14.0101","JF799976"
+"197","Tri tu 14","Triticum turgidum ssp durum (Durum wheat)
+（硬粒小麦）","nsLipid transfer protein 1
+nsLipid转移蛋白1","Act c 5.0102","JX905294.1"
+"197","Tri tu 14","Triticum turgidum ssp durum (Durum wheat)
+（硬粒小麦）","Pathogenesis-related protein, PR-10, Bet v 1 family member","Act c 8.0101","AM489567.1"
+"201","Act d 1","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Cysteine protease (actinidin)
+半胱氨酸蛋白酶","Act d 1.0101","X16466"
+"202","Act d 2","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Thaumatin-like protein
+奇异果蛋白样蛋白","Act d 2.0101","AJ871175"
+"202","Act d 2","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Phytocystatin","Act d 4.0101","AY390352"
+"206","Act d 6","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Pectin methylesterase inhibitor
+果胶甲酯酶抑制剂","Act d 6.0101","AB091088.1"
+"208","Act d 8","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Act d 8.0101","AM489568"
+"209","Act d 9","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Profilin","Act d 9.0101","FG438715"
+"209","Act d 9","Actinidia deliciosa (Green Kiwi fruit)
+美味猕猴桃（绿色奇异果）","Profilin","Act d 12.0102","DQ251185.1"
+"214","Ana c 1","Ananas comosus (Pineapple)
+（菠萝）","Profilin","Ana c 1.0101","Anac1.0101"
+"215","Ana c 2","Ananas comosus (Pineapple)
+（菠萝）","Bromelain
+菠萝蛋白酶","Ana c 2.0101","D14059"
+"216","Api g 1","Apium graveolens (Celery)
+芹菜（芹菜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Api g 1.0101","Z48967"
+"216","Api g 1","Apium graveolens (Celery)
+芹菜（芹菜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Api g 1.0201","Z75662"
+"217","Api g 2","Apium graveolens (Celery)
+芹菜（芹菜）","Non-specific lipid-transfer protein, type 1
+非特异性脂质转移蛋白，1型","Api g 2.0101","FJ643539"
+"218","Api g 3","Apium graveolens (Celery)
+芹菜（芹菜）","Chlorophyll a-b binding protein, chloroplast
+叶绿素a-b结合蛋白，叶绿体","Api g 3.0101","Z75663"
+"219","Api g 4","Apium graveolens (Celery)
+芹菜（芹菜）","Profilin","Api g 4.0101","AF129423"
+"226","Bra r 1","Brassica rapa (Field mustard or Turnip)
+芜菁（芥菜或萝卜）","2S albumin
+2S白蛋白","Bra r 1.0101","X65969"
+"228","Cap a 1","Capsicum annuum (Chilli or bell pepper)
+辣椒（辣椒或甜椒）","Osmotin-like protein (thaumatin-like protein)
+渗透蛋白样蛋白（类甜蛋白样蛋白）","Cap a 1.0101","AJ297410"
+"229","Cap a 2","Capsicum annuum (Chilli or bell pepper)
+辣椒（辣椒或甜椒）","Profilin
+肌动蛋白
+","Cap a 2.0101","AJ417552"
+"233","Cit s 2","Citrus sinensis (Sweet orange)
+（甜橙）","Profilin
+肌动蛋白
+","Cit s 2.0101","AJ865015"
+"233","Cit s 2","Citrus sinensis (Sweet orange)
+（甜橙）","Profilin
+肌动蛋白
+","Cit s 3.0102","AJ783335"
+"236","Cuc m 1","Cucumis melo (Muskmelon)
+（甜瓜）","Alkaline serine protease (cucumisin)
+碱性丝氨酸蛋白酶(黄瓜素)","Cuc m 1.0101","D32206"
+"237","Cuc m 2","Cucumis melo (Muskmelon)
+（甜瓜）","Profilin
+肌动蛋白
+","Cuc m 2.0101","AY879597"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0101","U47087"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0102","D88388"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0103","Z81361"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0104","Z81362"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0105","Z84376"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0201","AF456481"
+"239","Dau c 1","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Dau c 1.0301","HM064421"
+"240","Dau c 4","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Profilin
+肌动蛋白
+","Dau c 4.0101","AF456482"
+"241","Dau c 5","Daucus carota (Carrot)
+胡萝卜（胡萝卜）","Isoflavone reductase-like protein
+异黄酮还原酶样蛋白","Dau c 5.0101","JN591770"
+"242","Sola l 1","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Profilin
+肌动蛋白
+","Sola l 1.0101","AJ417553"
+"243","Sola l 2","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Beta-fructofuranosidase
+β呋喃果糖苷酶","Sola l 2.0101","AF465612"
+"243","Sola l 2","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Beta-fructofuranosidase
+β呋喃果糖苷酶","Sola l 2.0201","AF465613"
+"244","Sola l 3","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Sola l 3.0101","U81996"
+"245","Sola l 4","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Pathogenesis-related protein, PR-10, Bet v 1 family member, TSI-1
+发病相关蛋白，PR-10，Bet v 1家族成员，TSI-1","Sola l 4.0101","KF682291"
+"245","Sola l 4","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Pathogenesis-related protein, PR-10, Bet v 1 family member, TSI-1
+发病相关蛋白，PR-10，Bet v 1家族成员，TSI-1","Sola l 4.0201","NM_001288651"
+"246","Sola l 5","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Cyclophilin
+亲环素","Sola l 5.0101","M55019"
+"246","Sola l 5","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Cyclophilin
+亲环素","Fra a 1.0102","DQ385511"
+"246","Sola l 5","Solanum lycopersicum (Lycopersicon esculentum) (Tomato)
+（番茄）","Cyclophilin
+亲环素","Fra a 1.0102","AM084674"
+"250","Fra a 3","Fragaria ananassa (Strawberry)
+草莓（草莓）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Fra a 3.0101","AJ315844"
+"250","Fra a 3","Fragaria ananassa (Strawberry)
+草莓（草莓）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Fra a 3.0102","DQ066728"
+"250","Fra a 3","Fragaria ananassa (Strawberry)
+草莓（草莓）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Fra a 3.0201","DQ066727"
+"250","Fra a 3","Fragaria ananassa (Strawberry)
+草莓（草莓）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Fra a 3.0202","DQ066731"
+"251","Fra a 4","Fragaria ananassa (Strawberry)
+草莓（草莓）","Profilin
+肌动蛋白
+","Fra a 4.0101","XM_004287442"
+"252","Gal d 1","Gallus domesticus (chicken)
+（鸡）","Ovomucoid
+卵类黏蛋白","Gal d 1.0101","J00902"
+"253","Gal d 2","Gallus domesticus (chicken)
+（鸡）","Ovalbumin
+卵清蛋白","Gal d 2.0101","V00383"
+"254","Gal d 3","Gallus domesticus (chicken)
+（鸡）","Ovotransferrin
+卵铁传递蛋白","Gal d 3.0101","X02009"
+"255","Gal d 4","Gallus domesticus (chicken)
+（鸡）","Lysozyme C
+溶菌酶C.","Gal d 4.0101","V00428"
+"256","Gal d 5","Gallus domesticus (chicken)
+（鸡）","Serum albumin
+血清白蛋白","Gal d 5.0101","X60688"
+"257","Gal d 6","Gallus domesticus (chicken)
+（鸡）","YGP42","Gal d 6.0101","D89547"
+"258","Gal d 7","Gallus domesticus (chicken)
+（鸡）","Myosin light chain 1f
+肌球蛋白轻链1f","Gal d 7.0101","AH002460S1"
+"259","Gal d 8","Gallus domesticus (chicken)
+（鸡）","alpha-parvalbumin
+α小清蛋白","Gal d 8.0101","FM994924"
+"262","Hel a 3","Helianthus annuus (Sunflower)
+向日葵（向日葵）","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Hel a 3.0101","AF529201"
+"264","Len c 1","Lens culinaris (Lentil)
+（扁豆）","Gamma-vicilin subunit
+γ-豌豆球蛋白亚基","Len c 1.0101","AJ551424"
+"264","Len c 1","Lens culinaris (Lentil)
+（扁豆）","Gamma-vicilin subunit
+γ-豌豆球蛋白亚基","Len c 1.0102","AJ551425"
+"266","Len c 3","Lens culinaris (Lentil)
+（扁豆）","Nonspecific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Len c 3.0101","AY793554"
+"267","Lit c 1","Litchi chinensis (Lychee)
+荔枝（荔枝）","Profilin
+肌动蛋白","Lit c 1.0101","AY049013"
+"268","Lup an 1","Lupinus angustifolius (Narrow-leaved blue lupin)
+（狭叶蓝羽扇豆）","Conglutin beta (7S seed storage globulin, vicilin)
+7S种子贮藏球蛋白","Lup an 1.0101","EU352876"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0101","X83672"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0102","Z48969"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0103","AF124823"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0104","AF124829"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0105","AF124830"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0106","AF124831"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0107","AF124832"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0108","AF126402"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0109","AY026910"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0201","L42952"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0202","AF124822"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0203","AF124824"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0204","AF124825"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0205","AF124835"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0206","AF020542"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0207","AY026911"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0208","AJ488060"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0301","Z72425"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0302","AY026908"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0303","AY026909"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0304","AY186248"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0401","Z72426"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0402","Z72427"
+"269","Mal d 1","Malus domestica (Apple)
+苹果","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Mal d 1.0403","Z72428"
+"270","Mal d 2","Malus domestica (Apple)
+苹果","Thaumatin-like protein
+奇异果蛋白样蛋白","Mal d 2.0101","AF090143"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0101w","AY572500"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0101w","AY572501"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0101w","AY572502"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0101w","AY572503"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0101w","AY572504"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0102w","AY572516"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0201w","AY572517"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0201w","AY572520"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0201w","AY572521"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0201w","AY572522"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0201w","AY572523"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0202w","AY572530"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0202w","AY572531"
+"271","Mal d 3","Malus domestica (Apple)
+苹果","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Mal d 3.0203w","AY572532"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0101","AF129428"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0102","AJ507459"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0201","AF129427"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0202","AJ507458"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0301","AF129426"
+"272","Mal d 4","Malus domestica (Apple)
+苹果","Profilin
+肌动蛋白","Mal d 4.0302","AJ507457"
+"274","Mus a 1","Musa acuminata (Banana)
+（香蕉）","Profilin
+肌动蛋白","Mus a 1.0101","AF377948"
+"275","Mus a 2","Musa acuminata (Banana)
+（香蕉）","Class 1 chitinase
+1类几丁质酶","Mus a 2.0101","AJ277278"
+"280","Pers a 1","Persea americana (Avocado)
+鳄梨","Class I chitinase
+I类几丁质酶","Pers a 1.0101","Z78202"
+"281","Pru ar 1","Prunus armeniaca (Apricot)
+杏（杏）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru ar 1.0101","U93165"
+"283","Pru av 1","Prunus avium (Sweet cherry)
+（甜樱桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru av 1.0101","U66076"
+"283","Pru av 1","Prunus avium (Sweet cherry)
+（甜樱桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru av 1.0201","AY540507"
+"283","Pru av 1","Prunus avium (Sweet cherry)
+（甜樱桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru av 1.0202","AY540508"
+"283","Pru av 1","Prunus avium (Sweet cherry)
+（甜樱桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru av 1.0203","AY540509"
+"284","Pru av 2","Prunus avium (Sweet cherry)
+（甜樱桃）","Thaumatin-like protein
+奇异果蛋白样蛋白","Pru av 2.0101","U32440"
+"285","Pru av 3","Prunus avium (Sweet cherry)
+（甜樱桃）","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Pru av 3.0101","AF221501"
+"286","Pru av 4","Prunus avium (Sweet cherry)
+（甜樱桃）","Profilin
+肌动蛋白","Pru av 4.0101","AF129425"
+"288","Pru p 1","Prunus persica (Peach)
+桃李（桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru p 1.0101","DQ251187"
+"288","Pru p 1","Prunus persica (Peach)
+桃李（桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru p 1.0201","KM350692"
+"288","Pru p 1","Prunus persica (Peach)
+桃李（桃）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pru p 1.0301","KM350693"
+"289","Pru p 2","Prunus persica (Peach)
+桃李（桃）","Thaumatin-like protein
+奇异果蛋白样蛋白","Pru p 2.0101","EU424259"
+"289","Pru p 2","Prunus persica (Peach)
+桃李（桃）","Thaumatin-like protein
+奇异果蛋白样蛋白","Pru p 2.0201","EU424257"
+"289","Pru p 2","Prunus persica (Peach)
+桃李（桃）","Thaumatin-like protein
+奇异果蛋白样蛋白","Pru p 2.0301","EU424255"
+"289","Pru p 2","Prunus persica (Peach)
+桃李（桃）","Thaumatin-like protein
+奇异果蛋白样蛋白","Pru p 3.0102","AJ277163"
+"291","Pru p 4","Prunus persica (Peach)
+桃李（桃）","Profilin
+肌动蛋白","Pru p 4.0101","AJ491881"
+"291","Pru p 4","Prunus persica (Peach)
+桃李（桃）","Profilin
+肌动蛋白","Pru p 4.0201","AJ491882"
+"293","Pyr c 1","Pyrus communis (Pear)
+（梨）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Pyr c 1.0101","AF057030"
+"294","Pyr c 3","Pyrus communis (Pear)
+（梨）","Nonspecific lipid-transfer protein 1
+非特异性脂质转移蛋白1","Pyr c 3.0101","AF221503"
+"295","Pyr c 4","Pyrus communis (Pear)
+（梨）","Profilin
+肌动蛋白","Pyr c 4.0101","AF129424"
+"296","Pyr c 5","Pyrus communis (Pear)
+（梨）","Isoflavone reductase related protein, putative phenylcoumaran benzylic ether reductase
+异黄酮还原酶相关蛋白，推定苯基香豆素苄基醚还原酶","Pyr c 5.0101","AF071477"
+"297","Rub i 1","Rubus idaeus (Red raspberry)
+悬钩子（红莓）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Rub i 1.0101","DQ660361"
+"298","Rub i 3","Rubus idaeus (Red raspberry)
+悬钩子（红莓）","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Rub i 3.0101","DQ660360"
+"299","Ses i 1","Sesamum indicum (Sesame)
+（芝麻）","2S albumin
+2S白蛋白","Ses i 1.0101","AF240005"
+"300","Ses i 2","Sesamum indicum (Sesame)
+（芝麻）","2S albumin
+2S白蛋白","Ses i 2.0101","AF091841"
+"301","Ses i 3","Sesamum indicum (Sesame)
+（芝麻）","7S vicilin-like globulin","Ses i 3.0101","AF240006"
+"302","Ses i 4","Sesamum indicum (Sesame)
+（芝麻）","oleosin
+油质蛋白","Ses i 4.0101","AF302807"
+"303","Ses i 5","Sesamum indicum (Sesame)
+（芝麻）","oleosin
+油质蛋白","Ses i 5.0101","AF091840"
+"304","Ses i 6","Sesamum indicum (Sesame)
+（芝麻）","11S globulin
+11 s球蛋白","Ses i 6.0101","AF091842"
+"305","Ses i 7","Sesamum indicum (Sesame)
+（芝麻）","11S globulin
+11 s球蛋白","Ses i 7.0101","AF240004"
+"306","Sin a 1","Sinapis alba (Yellow mustard)
+芥子（黄芥末）","2S albumin
+2S白蛋白","Sin a 1.0101","X91799"
+"307","Sin a 2","Sinapis alba (Yellow mustard)
+芥子（黄芥末）","11S globulin (legumin-like) seed storage protein
+球蛋白(类豆荚蛋白)种子贮藏蛋白","Sin a 2.0101","AY846388"
+"308","Sin a 3","Sinapis alba (Yellow mustard)
+芥子（黄芥末）","non-specific lipid transfer protein type 1
+非特异性脂质转运蛋白1型","Sin a 3.0101","EF626938"
+"309","Sin a 4","Sinapis alba (Yellow mustard)
+芥子（黄芥末）","Profilin
+肌动蛋白","Sin a 4.0101","EF626939"
+"310","Sola t 1","Solanum tuberosum (Potato)
+马铃薯（马铃薯）","Patatin
+马铃薯糖蛋白","Sola t 1.0101","X13179"
+"312","Sola t 3","Solanum tuberosum (Potato)
+马铃薯（马铃薯）","Cysteine protease inhibitor
+半胱氨酸蛋白酶抑制剂","Sola t 3.0101","U59272"
+"312","Sola t 3","Solanum tuberosum (Potato)
+马铃薯（马铃薯）","Cysteine protease inhibitor
+半胱氨酸蛋白酶抑制剂","Sola t 3.0102","M22145"
+"313","Sola t 4","Solanum tuberosum (Potato)
+马铃薯（马铃薯）","Serine protease inhibitor 7
+丝氨酸蛋白酶抑制剂7","Sola t 4.0101","D17329"
+"314","Vit v 1","Vitis vinifera (Grape)
+（葡萄）","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1 (nsLTP1)","Vit v 1.0101","AF467946"
+"315","Zea m 8","Zea mays (Maize)
+玉米（玉米）","Class IV chitinase
+第四类几丁质酶","Zea m 8.0101","AAA33444"
+"316","Zea m 14","Zea mays (Maize)
+玉米（玉米）","Nonspecific lipid-transfer protein
+非特异性脂质转运蛋白","Zea m 14.0101","J04176"
+"316","Zea m 14","Zea mays (Maize)
+玉米（玉米）","Nonspecific lipid-transfer protein
+非特异性脂质转运蛋白","Zea m 14.0102","M57249"
+"317","Ziz m 1","Ziziphus mauritiana (Chinese-date)","Class III chitinase
+III类几丁质酶","Ziz m 1.0101","AY839230"
+"318","Bomb m 1","Bombyx mori (Silk moth)
+森堡(蚕蛾)","Arginine kinase
+精胺酸激酶","Bomb m 1.0101","DQ272299"
+"319","Man e 5","Manihot esculenta (Cassava, manioc)
+木薯","Glutamic acid rich protein
+富含谷氨酸的蛋白质","Man e 5.0101","JF710639"
+"320","Pun g 1","Punica granatum (Pomegranate)
+(石榴)","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Pun g 1.0101","KC550307"
+"320","Pun g 1","Punica granatum (Pomegranate)
+(石榴)","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Pun g 1.0201","KC550306"
+"320","Pun g 1","Punica granatum (Pomegranate)
+(石榴)","Non-specific lipid transfer protein 1 (nsLTP1)
+非特异性脂质转运蛋白1（nsLTP1）","Pun g 1.0301","KC550305"
+"322","Pin p 1","Pinus pinea (Stone pine)
+松树(石松)","2S albumin
+2S白蛋白","Pin p 1.0101","LN876267"
+"323","Sus s 1","Sus scrofa (Domestic pig)
+西斯克鲁法(家猪)","Serum albumin
+血清白蛋白","Sus s 1.0101","M36787"
+"324","Pin k 2","Pinus koraiensis (Korean Pine)
+韩国松","Vicilin
+豌豆球蛋白","Pin k 2.0101","KF530834"
+"325","Citr l 2","Citrullus lanatus (watermellon)
+西瓜","Profilin
+肌动蛋白","Citr l 2.0101","AY730591"
+"327","Cari p 1","Carica papaya (Papaya)
+(木瓜)","endo-polygalacturonase
+内切多聚半乳糖","Cari p 1.0101","GQ479794"
+"330","Pru ar 5","Prunus armeniaca (Apricot) 
+亚美尼亚梅子(杏)","acidic protein Hev b 5-like
+酸性蛋白hevb5样","Pru ar 5.0101","AF134731.1"
+"1","Aed a 1 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊子)","Apyrase
+腺苷三磷酸双","Aed a 1.0101","L12389"
+"2","Aed a 3 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊子)","Undefined 30 kDa salivary protein
+未定义的30 kDa唾液蛋白","Aed a 3.0101","AF001927"
+"3","Aln g 1","Alnus glutinosa (Alder) 
+桤木（Alder）
+","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Aln g 1.0101","S50892"
+"4","Aln g 4 ","Alnus glutinosa (Alder) 
+桤木（Alder）
+","Polcalcin
+","Aln g 4.0101","Y17713"
+"5","Alt a 1 ","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","
+","Alt a 1.0101","U82633"
+"5","Alt a 1 ","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","
+","Alt a 1.0102","AY568627"
+"6","Alt a 10","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Aldehyde dehydrogenase
+ 醛脱氢酶","Alt a 10.0101","X78227"
+"7","Alt a 12","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Acid ribosomal protein P1
+酸性核糖体蛋白P1","Alt a 12.0101","X84216"
+"8","Alt a 13","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Glutathione-S-transferase
+谷胱甘肽S转移酶","Alt a 13.0101","AY514673"
+"9","Alt a 3","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Heat shock protein 70
+热休克蛋白70","Alt a 3.0101","U87807"
+"9","Alt a 3","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Heat shock protein 70
+热休克蛋白70","Alt a 3.0101","U87808"
+"10","Alt a 4","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Disulfide isomerase
+二硫键异构酶","Alt a 4.0101","X84217"
+"11","Alt a 5","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Ribosomal protein P2
+核糖体蛋白P2","Alt a 5.0101","X78222"
+"11","Alt a 5","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Ribosomal protein P2
+核糖体蛋白P2","Alt a 5.0101","U87806"
+"12","Alt a 6","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Enolase
+烯醇化酶","Alt a 6.0101","U82437"
+"13","Alt a 7","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","YCP4 protein
+YCP4蛋白","Alt a 7.0101","X78225"
+"14","Alt a 8","Alternaria alternata (Alternaria plant rot fungus) 
+Alternaria alternata(交链胞菌)","Mannitol dehydrogenase
+甘露醇脱氢酶","Alt a 8.0101","AY191815"
+"15","Ama r 2","Amaranthus retroflexus (Redroot pigweed)
+ 反屈花苋（猪尾草）","Profilin
+肌动蛋白","Ama r 2.0101","FJ899746"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0101","M80558"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0201","M62981"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0202","FR669658"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0301","M62961"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0303","M80560"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0304","FR669659"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0305","FR669660"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0401","M80562"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0402","FR669664"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0501","M80561"
+"16","Amb a 1","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Pectate lyase
+果胶酸裂解酶","Amb a 1.0502","FR669666"
+"17","Amb a 10","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Polcalcin-like protein (4 EF-hands)
+","Amb a 10.0101","AY894659"
+"21","Amb a 6","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Non-specific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Amb a 6.0101","U89793"
+"23","Amb a 8 ","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Profilin
+肌动蛋白","Amb a 8.0101","AY894660"
+"23","Amb a 8 ","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Profilin
+肌动蛋白","Amb a 8.0102","AY894661"
+"24","Amb a 9 ","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Polcalcin
+","Amb a 9.0101","AY894657"
+"24","Amb a 9 ","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Polcalcin
+","Amb a 9.0102","AY894658"
+"25","Amb p 5","Ambrosia psilostachya (Western ragweed)
+西部豚草 ","-","Amb p 5.0101","L24465"
+"25","Amb p 5","Ambrosia psilostachya (Western ragweed)
+西部豚草 ","-","Amb p 5.0201","L24467"
+"26","Amb t 5 ","Ambrosia trifida (Giant ragweed) 
+三裂叶豚草 （巨型豚草）","-","Amb t 5.0101","X56279"
+"28","Api c 1 ","Apis cerana (Asiatic honey bee) 
+亚洲蜂","Phospholipase A2
+磷脂酶A2","Api c 1.0101","AF321087"
+"30","Api m 1 ","Apis mellifera (Honey bee) 
+蜜蜂","Phospholipase A2
+磷脂酶A2","Api m 1.0101","X16709"
+"31","Api m 10 ","Apis mellifera (Honey bee) 
+蜜蜂","Icarapin variant 2, carbohydrate-rich protein
+Icarapin变体2，富含碳水化合物的蛋白质","Api m 10.0101","DQ485319"
+"32","Api m 2 ","Apis mellifera (Honey bee) 
+蜜蜂","Hyaluronidase
+透明质酸酶","Api m 2.0101","L10710"
+"33","Api m 3 ","Apis mellifera (Honey bee) 
+蜜蜂","Acid phosphatase
+酸性磷酸酶","Api m 3.0101","DQ058012"
+"34","Api m 4 ","Apis mellifera (Honey bee) 
+蜜蜂","Melittin
+蜂毒肽","Api m 4.0101","X02007"
+"35","Api m 5 ","Apis mellifera (Honey bee) 
+蜜蜂","Dipeptidylpeptidase IV
+二肽基肽酶IV","Api m 5.0101","NM_001126243"
+"36","Api m 6 ","Apis mellifera (Honey bee) 
+蜜蜂","-","Api m 6.0101","NM_001040270"
+"37","Api m 7 ","Apis mellifera (Honey bee) 
+蜜蜂","CUB serine protease
+CUB丝氨酸蛋白酶","Api m 7.0101","AY127579"
+"38","Api m 8","Apis mellifera (Honey bee) 
+蜜蜂","Carboxylesterase
+羧酸酯酶","Api m 8.0101","EU564833"
+"39","Api m 9 ","Apis mellifera (Honey bee) 
+蜜蜂","Serine carboxypeptidase
+丝氨酸羧肽酶","Api m 9.0101","FJ765738"
+"40","Bra r 5","Brassica rapa (Field mustard or Turnip) 
+芜菁（芥菜或萝卜）","Polcalcin","Bra r 5.0101","D63153"
+"41","Arg r 1 ","Argas reflexus (Pigeon tick) 
+鸽子蜱虫","-","Arg r 1.0101","AJ697694"
+"42","Art v 1 ","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Defensin-like protein
+防御素样蛋白","Art v 1.0101","AF493943"
+"43","Art v 2","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Pathogenesis-related protein PR-1
+发病相关蛋白PR-1","Art v 2.0101","AM279693"
+"43","Art v 2","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Pathogenesis-related protein PR-1
+发病相关蛋白PR-1","Art v 3.0201","EU564845"
+"43","Art v 2","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Pathogenesis-related protein PR-1
+发病相关蛋白PR-1","Art v 3.0202","EU564846"
+"43","Art v 2","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Pathogenesis-related protein PR-1
+发病相关蛋白PR-1","Art v 3.0301","EU564847"
+"45","Art v 4","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Profilin
+肌动蛋白","Art v 4.0101","AJ421030"
+"45","Art v 4","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Profilin
+肌动蛋白","Art v 4.0201","AJ421031"
+"46","Art v 5 ","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Polcalcin","Art v 5.0101","AY904434"
+"47","Art v 6","Artemisia vulgaris (Mugwort, wormwood)
+艾蒿 ","Pectate lyase
+果胶酸裂解酶","Art v 6.0101","AY904433"
+"48","Asc l 3 ","Ascaris lumbricoides (Common roundworm)
+蛔虫（普通蛔虫） ","Tropomyosin
+原肌球蛋白","Asc l 3.0101","FJ655903"
+"49","Asc s 1 ","Ascaris suum (Pig roundworm) 
+猪蛔虫（猪蛔虫）","N.A.","Asc s 1.0101","AF051702"
+"50","Asp f 1 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Mitogillin family","Asp f 1.0101","M83781"
+"51","Asp f 10 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Aspartate protease
+天冬氨酸蛋白酶","Asp f 10.0101","X85092"
+"52","Asp f 11 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Peptidyl-prolyl isomerase
+肽基 - 脯氨酰异构酶","Asp f 11.0101","AJ006689"
+"53","Asp f 12 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Heat shock protein P90
+热休克蛋白P90","Asp f 12.0101","U92465"
+"54","Asp f 13 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Alkaline serine protease
+碱性丝氨酸蛋白酶","Asp f 13.0101","Z11580"
+"55","Asp f 15 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 15.0101","AJ002026"
+"56","Asp f 16 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 16.0101","AF062651"
+"57","Asp f 17 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 17.0101","AJ224865"
+"58","Asp f 18 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Vacuolar serine protease，
+液泡丝氨酸蛋白酶","Asp f 18.0101","Y13338"
+"59","Asp f 2 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 2.0101","U56938"
+"60","Asp f 22 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Enolase
+烯醇化酶","Asp f 22.0101","AF284645"
+"61","Asp f 23 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","L3 ribosomal protein
+L3核糖体蛋白","Asp f 23.0101","AF464911"
+"62","Asp f 27","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Cyclophilin
+亲环素","Asp f 27.0101","AJ937743"
+"63","Cur l 4 ","Curvularia lunata (Synonym: Cochliobolus lunatus)
+弯孢霉（轮状耳蜗） ","Vacuolar serine protease
+液泡丝氨酸蛋白酶","Cur l 4.0101","EU622631"
+"64","Asp f 28","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Thioredoxin
+硫氧还蛋白","Asp f 28.0101","AJ937744"
+"65","Asp f 29 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Thioredoxin
+硫氧还蛋白","Asp f 29.0101","AJ937745"
+"66","Asp f 3 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Peroxysomal protein
+过氧化物酶蛋白","Asp f 3.0101","U58050"
+"67","Asp f 34 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","PhiA cell wall protein
+PhiA细胞壁蛋白","Asp f 34.0101","AM496018"
+"68","Asp f 4 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 4.0101","AJ001732"
+"69","Asp f 5","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Metalloprotease
+金属蛋白酶","Asp f 5.0101","Z30424"
+"70","Asp f 6 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Mn superoxide dismutase
+Mn超氧化物歧化酶","Asp f 6.0101","U53561"
+"71","Asp f 7 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 7.0101","AJ223315"
+"72","Asp f 8 ","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","Ribosomal protein P2
+ 核糖体蛋白P2","Asp f 8.0101","AJ224333"
+"73","Asp f 9","Aspergillus fumigatus (Common mold) 
+烟曲霉（普通霉菌）","-","Asp f 9.0101","AJ223327"
+"75","Asp n 14 ","Aspergillus niger (Black mold)
+黑曲霉（黑霉）","Beta-xylosidase
+β-木糖苷酶","Asp n 14.0101","AF108944"
+"77","Asp n 25 ","Aspergillus niger (Black mold)
+黑曲霉（黑霉）","3-phytase B
+3-植酸酶B.","Asp n 25.0101","L20567"
+"78","Asp o 13 ","Aspergillus oryzae (Rice mold) 
+米曲霉（米霉）","Alkaline serine protease
+碱性丝氨酸蛋白酶","Asp o 13.0101","X17561"
+"79","Asp o 21","Aspergillus oryzae (Rice mold) 
+米曲霉（米霉）","TAKA-amylase A
+TAKA-淀粉酶A.","Asp o 21.0101","M33218"
+"79","Asp o 21","Aspergillus oryzae (Rice mold) 
+米曲霉（米霉）","TAKA-amylase A
+TAKA-淀粉酶A.","Asp o 21.0101","D00434"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0101","X15877"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0101","Z80098"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0101","Z80099"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0102","X77266"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0102","X77270"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0103","X77267"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0104","X77268"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0104","X77274"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0105","X77269"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0106","X77271"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0107","X77273"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0108","Z80100"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0109","Z80101"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0110","Z80102"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0111","Z80103"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0112","Z80104"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0113","Z80105"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0114","Z80106"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0115","Z72438.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0116","AJ001555.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0117","AJ006908.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0118","AJ006914.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0119","DQ296603.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0201","X77200"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0202","X77265"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0203","X77272"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0204","X81972"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0204","X82028"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0205","Z72431.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0206","AJ001556.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0207","EU526193.1"
+"80","Bet v 1 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Bet v 1.0301","X77601.1"
+"81","Bet v 2","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Profilin
+肌动蛋白","Bet v 2.0101","M65179"
+"82","Bet v 3 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Polcalcin-like protein (4 EF-hand)","Bet v 3.0101","X79267"
+"83","Bet v 4 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Polcalcin","Bet v 4.0101","X87153"
+"84","Bet v 6","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","PhenylCoumaran benzylic ether reductase
+苯香豆素苯丙醚还原酶","Bet v 6.0101","AF135127"
+"84","Bet v 6","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","PhenylCoumaran benzylic ether reductase
+苯香豆素苯丙醚还原酶","Bet v 6.0102","AF282850"
+"85","Bet v 7 ","Betula verrucosa (Betula pendula) (European white birch)
+桦木(桦树)(欧洲白桦树) ","Cyclophilin
+亲环素","Bet v 7.0101","AJ311666"
+"88","Bla g 2 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Aspartic protease
+天冬氨酸蛋白酶","Bla g 2.0101","U28863"
+"89","Bla g 4 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Calycin","Bla g 4.0101","U40767"
+"90","Bla g 5 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Glutathione S-transferase
+谷胱甘肽S-转移酶","Bla g 5.0101","U92412"
+"91","Bla g 6 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Troponin C
+肌钙蛋白C.","Bla g 6.0101","DQ279092"
+"91","Bla g 6 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Troponin C
+肌钙蛋白C.","Bla g 6.0201","DQ279093"
+"91","Bla g 6 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Troponin C
+肌钙蛋白C.","Bla g 6.0301","DQ279094"
+"92","Bla g 7 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Tropomyosin
+原肌球蛋白","Bla g 7.0101","AF260897"
+"93","Blo t 1 ","Blomia tropicalis (Storage mite) 
+储存螨","Cysteine protease
+半胱氨酸蛋白酶","Blo t 1.0101","AF277840"
+"93","Blo t 1 ","Blomia tropicalis (Storage mite) 
+储存螨","Cysteine protease
+半胱氨酸蛋白酶","Blo t 1.0201","AY291322"
+"94","Blo t 10 ","Blomia tropicalis (Storage mite) 
+储存螨","Tropomyosin
+原肌球蛋白","Blo t 10.0101","EU106615"
+"95","Blo t 11 ","Blomia tropicalis (Storage mite) 
+储存螨","Paramyosin
+ 副肌球蛋白","Blo t 11.0101","AF525465"
+"96","Blo t 12 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 12.0101","U27479"
+"97","Blo t 13 ","Blomia tropicalis (Storage mite) 
+储存螨","Fatty acid-binding protein
+脂肪酸结合蛋白","Blo t 13.0101","U58106"
+"98","Blo t 19 ","Blomia tropicalis (Storage mite) 
+储存螨","Anti-microbial peptide homologue
+抗微生物肽同系物","Blo t 19.0101","KF771884"
+"99","Blo t 2 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 2.0101","AY288141"
+"99","Blo t 2 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 2.0102","AY288140"
+"99","Blo t 2 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 2.0103","AY288139"
+"100","Blo t 21 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 21.0101","AY800348"
+"101","Blo t 3 ","Blomia tropicalis (Storage mite) 
+储存螨","Trypsin
+胰蛋白酶","Blo t 3.0101","AY090091"
+"102","Blo t 4 ","Blomia tropicalis (Storage mite) 
+储存螨","Alpha amylase
+α-淀粉酶","Blo t 4.0101","AY291324"
+"103","Blo t 5 ","Blomia tropicalis (Storage mite) 
+储存螨","-","Blo t 5.0101","U59102"
+"104","Blo t 6 ","Blomia tropicalis (Storage mite) 
+储存螨","Chymotrypsin
+糜蛋白酶","Blo t 6.0101","AY291325"
+"109","Bos d 2 ","Bos domesticus Bos taurus (domestic cattle)
+家养牛 ","Lipocalin
+脂质运载","Bos d 2.0101","L42867"
+"109","Bos d 2 ","Bos domesticus Bos taurus (domestic cattle)
+家养牛 ","Lipocalin
+脂质运载","Bos d 2.0102","NM_174761"
+"109","Bos d 2 ","Bos domesticus Bos taurus (domestic cattle)
+家养牛 ","Lipocalin
+脂质运载","Bos d 2.0103","NM_174761"
+"110","Bos d 3 ","-","S100 calcium-binding protein A7
+ S100钙结合蛋白A7","Bos d 3.0101","L39834"
+"111","Can f 1 ","Canis familiaris (dog) 
+家犬(狗)","Lipocalin
+脂质运载","Can f 1.0101","AF027177"
+"112","Can f 2 ","Canis familiaris (dog) 
+家犬(狗)","Lipocalin
+脂质运载","Can f 2.0101","AF027178"
+"113","Can f 3 ","Canis familiaris (dog) 
+家犬(狗)","Serum albumin
+血清白蛋白","Can f 3.0101","AB090854"
+"114","Can f 4 ","Canis familiaris (dog) 
+家犬(狗)","Lipocalin
+脂质运载","Can f 4.0101","GU132996"
+"115","Can f 5 ","Canis familiaris (dog) 
+家犬(狗)","Arginine esterase, prostatic kallikrein
+精氨酸酯酶，前列腺激肽释放酶","Can f 5.0101","Y00751"
+"116","Cand a 1 ","Candida albicans (Common yeast) 
+白色念珠菌(普通酵母)","Alcohol dehydrogenase
+酒精脱氢酶","Cand a 1.0101","X81694"
+"117","Cand a 3 ","Candida albicans (Common yeast) 
+白色念珠菌(普通酵母)","Peroxysomal protein
+过氧化物酶蛋白","Cand a 3.0101","AY136739"
+"118","Cand b 2 ","Candida boidinii (Yeast) 
+博氏念珠菌（酵母） ","Peroxisomal membrane protein A
+过氧化物酶体膜蛋白A.","Cand b 2.0101","J04984"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0101","X66932"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0102","X66918"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0103","Z80159"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0104","Z80160"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0105","Z80161"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0106","Z80162"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0106","Z80163"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0106","Z80164"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0106","Z80165"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0107","Z80166"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0107","Z80167"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0108","Z80168"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0109","EU283857"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0110","EU283858"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0111","EU283859"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0112","EU283860"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0113","EU283861"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0201","X66933"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0301","Z80169"
+"119","Car b 1","Carpinus betulus (Hornbeam) 
+欧洲鹅耳枥 （角树）","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Car b 1.0302","Z80170"
+"120","Cas s 1","Castanea sativa (Chestnut) 
+板栗","Pathogenesis-related protein, PR-10, Bet v 1 family member
+ 发病相关蛋白，PR-10，Bet v 1家族成员","Cas s 1.0101","FJ390843"
+"121","Cat r 1 ","Catharanthus roseus (Rosy periwinkle) 
+长春花","Cyclophilin
+亲环素","Cat r 1.0101","X85185"
+"123","Cav p 2 ","Cavia porcellus (guinea pig) 
+豚鼠","Lipocalin
+脂质运载","Cav p 2.0101","FN256284"
+"124","Cav p 3 ","Cavia porcellus (guinea pig) 
+豚鼠","Lipocalin
+脂质运载","Cav p 3.0101","FN256285"
+"125","Cha o 1 ","Chamaecyparis obtusa (Japanese cypress)
+扁柏（日本扁柏）","Pectate lyase
+果胶酸裂解酶","Cha o 1.0101","D45404"
+"127","Che a 1 ","Chenopodium album (Lambsquarters) 
+藜属植物","Ole e 1 homologue
+Ole e 1同源物","Che a 1.0101","AY049012"
+"128","Che a 2 ","Chenopodium album (Lambsquarters) 
+藜属植物","Profilin
+肌动蛋白","Che a 2.0101","AY082337"
+"129","Che a 3 ","Chenopodium album (Lambsquarters) 
+藜属植物","Polcalcin","Che a 3.0101","AY082338"
+"130","Chi k 10","Chironomus kiiensis (Midge) 
+花翅摇蚊（蠓虫）","Tropomyosin
+原肌球蛋白","Chi k 10.0101","AJ012184"
+"131","Chi t 1 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, component III/IV
+ 血红蛋白，组分III / IV","Chi t 1.0101","M17600"
+"131","Chi t 1 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, component III/IV
+ 血红蛋白，组分III / IV","Chi t 1.0201","X00920"
+"132","Chi t 2","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, component I/IA
+血红蛋白，组分I / IA","Chi t 2.0101","U14627"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0101","AF001292"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0201","M57411"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0301","AF001292"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0401","AF001292"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0501","M11620"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0601","U07703"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0701","U07703"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0701","U01342"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0702","U07703"
+"133","Chi t 3 ","Chironomus thummi thummi (Midge) 
+摇蚊","Hemoglobin, components II-beta, VI, VII, VIII, IX
+血红蛋白，组分II-β，VI，VII，VIII，IX","Chi t 3.0801","U07703"
+"140","Cla c 9","Cladosporium cladosporioides 
+枝孢霉","Vacuolar serine protease
+液泡丝氨酸蛋白酶","Cla c 9.0101","EF407520"
+"141","Cla h 10 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Aldehyde dehydrogenase
+醛脱氢酶","Cla h 10.0101","X78228"
+"142","Cla h 12 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Acid ribosomal protein P1
+ 酸性核糖体蛋白P1","Cla h 12.0101","X85180"
+"144","Cla h 5 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Acid ribosomal protein P2
+ 酸性核糖体蛋白P2","Cla h 5.0101","X78223"
+"145","Cla h 6 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Enolase
+烯醇化酶","Cla h 6.0101","X78226"
+"146","Cla h 7 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","YCP4 protein
+YCP4蛋白","Cla h 7.0101","X78224"
+"147","Cla h 8 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Mannitol dehydrogenase
+甘露醇脱氢酶","Cla h 8.0101","AY191816"
+"148","Cla h 9 ","Cladosporium herbarum (Fungus of plants)
+草芽孢杆菌（植物真菌） ","Vacuolar serine protease
+ 液泡丝氨酸蛋白酶","Cla h 9.0101","AY787775"
+"149","Cop c 1 ","Coprinus comatus (Shaggy mane) 
+鸡腿菇","Leucine zipper protein
+亮氨酸拉链蛋白","Cop c 1.0101","AJ132235"
+"150","Cop c 2 ","Coprinus comatus (Shaggy mane) 
+鸡腿菇","Thioredoxin
+硫氧还蛋白","Cop c 2.0101","AJ242791"
+"151","Cop c 3 ","Coprinus comatus (Shaggy mane) 
+鸡腿菇","-","Cop c 3.0101","AJ242792"
+"152","Cop c 5","Coprinus comatus (Shaggy mane) 
+鸡腿菇","-","Cop c 5.0101","AJ242793"
+"153","Cop c 7 ","Coprinus comatus (Shaggy mane) 
+鸡腿菇","-","Cop c 7.0101","AJ242794"
+"154","Cro s 1 ","Crocus sativus (Saffron crocus) 
+藏红花","-","Cro s 1.0101","AY923864"
+"155","Cro s 2 ","Crocus sativus (Saffron crocus) 
+藏红花","Profilin
+肌动蛋白","Cro s 2.0101","AY898658"
+"156","Cry j 1 ","Cryptomeria japonica (Sugi) 
+柳杉","Pectate lyase
+果胶酸裂解酶","Cry j 1.0101","D26544"
+"156","Cry j 1 ","Cryptomeria japonica (Sugi) 
+柳杉","Pectate lyase
+果胶酸裂解酶","Cry j 1.0102","D26545"
+"156","Cry j 1 ","Cryptomeria japonica (Sugi) 
+柳杉","Pectate lyase
+果胶酸裂解酶","Cry j 1.0103","D34639"
+"156","Cry j 1 ","Cryptomeria japonica (Sugi) 
+柳杉","Pectate lyase
+果胶酸裂解酶","Cry j 1.0103","AB081309"
+"156","Cry j 1 ","Cryptomeria japonica (Sugi) 
+柳杉","Pectate lyase
+果胶酸裂解酶","Cry j 1.0103","AB081310"
+"157","Cry j 2","Cryptomeria japonica (Sugi) 
+柳杉","Polygalacturonase
+多聚半乳糖","Cry j 2.0101","D29772"
+"158","Cte f 1 ","Ctenocephalides felis (Cat flea) 
+猫蚤","-","Cte f 1.0101","U63555"
+"159","Cte f 2 ","Ctenocephalides felis (Cat flea) 
+猫蚤","-","Cte f 2.0101","AF231352"
+"161","Cup a 1 ","Cupressus arizonica (Cypress) 
+侧柏（柏树）","Pectate lyase
+果胶酸裂解酶","Cup a 1.0101","AJ243570"
+"162","Cup s 1 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Pectate lyase
+果胶酸裂解酶","Cup s 1.0101","AF257491"
+"162","Cup s 1 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Pectate lyase
+果胶酸裂解酶","Cup s 1.0102","AF257492"
+"162","Cup s 1 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Pectate lyase
+果胶酸裂解酶","Cup s 1.0103","AF257493"
+"162","Cup s 1 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Pectate lyase
+果胶酸裂解酶","Cup s 1.0104","AF257494"
+"162","Cup s 1 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Pectate lyase
+果胶酸裂解酶","Cup s 1.0105","AF257495"
+"163","Cup s 3 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Thaumatin-like protein
+奇异果蛋白样蛋白","Cup s 3.0101","AY353705"
+"163","Cup s 3 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Thaumatin-like protein
+奇异果蛋白样蛋白","Cup s 3.0102","AY353706"
+"163","Cup s 3 ","Cupressus sempervirens (Common cypress)
+常绿柏（普通柏树） ","Thaumatin-like protein
+奇异果蛋白样蛋白","Cup s 3.0103","AY353707"
+"165","Cur l 2 ","Curvularia lunata (Synonym: Cochliobolus lunatus) 
+轮弯孢霉","Enolase
+烯醇化酶","Cur l 2.0101","AY034826"
+"166","Cur l 3 ","Curvularia lunata (Synonym: Cochliobolus lunatus) 
+轮弯孢霉","Cytochrome c
+细胞色素c","Cur l 3.0101","AY034827"
+"167","Cyn d 1 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Beta-expansin
+β-扩展蛋白","Cyn d 1.0101","S83343"
+"167","Cyn d 1 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Beta-expansin
+β-扩展蛋白","Cyn d 1.0201","AF177030"
+"167","Cyn d 1 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Beta-expansin
+β-扩展蛋白","Cyn d 1.0202","AF177378"
+"167","Cyn d 1 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Beta-expansin
+β-扩展蛋白","Cyn d 1.0203","AF177380"
+"167","Cyn d 1 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Beta-expansin
+β-扩展蛋白","Cyn d 1.0204","AF159703"
+"168","Cyn d 12","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Profilin
+肌动蛋白","Cyn d 12.0101","Y08390"
+"169","Cyn d 15","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","-","Cyn d 15.0101","AF517686"
+"171","Cyn d 23 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","-","Cyn d 23.0101","AF517685"
+"172","Cyn d 24 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Pathogenesis-related protein PR-1
+发病相关蛋白PR-1","Cyn d 24.0101","AY720896"
+"173","Cyn d 7 ","Cynodon dactylon (Bermuda grass) 
+天鹅草(百慕大草)","Polcalcin","Cyn d 7.0101","X91256"
+"175","Dac g 2 ","Dactylis glomerata (Orchard grass) 
+鸭茅（果园草）","-","Dac g 2.0101","S45354"
+"176","Dac g 3 ","Dactylis glomerata (Orchard grass) 
+鸭茅（果园草）","-","Dac g 3.0101","U25343"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0101","AB034946"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0102","DQ185509(variant)"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0103","DQ185509(variant)"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0104","DQ185509(variant)"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0105","DQ185509(variant)"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0106","AB034946(variant)"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0108","EF139428"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0109","EF139429"
+"180","Der f 1 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cysteine protease
+半胱氨酸蛋白酶","Der f 1.0110","EF139430"
+"181","Der f 10 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Tropomyosin
+原肌球蛋白","Der f 10.0101","D17682"
+"182","Der f 11 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Paramyosin
+副肌球蛋白","Der f 11.0101","AF352244"
+"183","Der f 13","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Fatty acid binding protein
+脂肪酸结合蛋白","Der f 13.0101","AY283293"
+"184","Der f 14 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Apolipophorin
+载脂蛋白","Der f 14.0101","D17686"
+"185","Der f 15 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Chitinase
+几丁质酶","Der f 15.0101","AF178772"
+"186","Der f 16 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Gelsolin/villin
+溶胶蛋白/绒毛","Der f 16.0101","AF465625"
+"188","Der f 18 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Chitin-binding protein
+几丁质结合蛋白","Der f 18.0101","AY093656"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0101","D10447"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0102","D10448"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0103","D10449"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0105","AY066008"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0106","AJ862836"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0107","AJ862837"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0108","AJ862838"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0109","DQ185511"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0112","AY283288"
+"189","Der f 2 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","NPC2 family
+NPC2家族","Der f 2.0116","EF205129"
+"190","Der f 22 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","-","Der f 22.0101","DQ643992"
+"191","Der f 3 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Trypsin
+胰蛋白酶","Der f 3.0101","D63858"
+"192","Der f 6 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Chymotrypsin
+糜蛋白酶","Der f 6.0101","AF125187"
+"193","Der f 7 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Bactericidal permeability-increasing like protein
+杀菌渗透性 - 像蛋白质一样增加","Der f 7.0101","S80655"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0101","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0102","U11695"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0103","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0104","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0105","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0106","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0107","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0108","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0109","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0110","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0111","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0112","U11695(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0113","DQ185508(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0114","DQ185508(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0115","DQ185509(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0116","DQ185510(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0117","DQ185511(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0118","DQ185512(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0119","DQ185513(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0120","DQ185514(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0121","DQ185515(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0122","DQ185516(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0123","DQ185517(variant)"
+"195","Der p 1 ","Dermatophagoides pteronyssinus (European house dust mite)
+翼螨（欧洲屋尘螨） ","Cysteine protease
+半胱氨酸蛋白酶","Der p 1.0124","FM177224"
+"196","Der p 10 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Tropomyosin
+原肌球蛋白","Der p 10.0101","Y14906"
+"197","Der p 11 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Paramyosin
+副肌球蛋白","Der p 11.0101","AY189697"
+"198","Der p 14 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Apolipophorin
+载脂蛋白","Der p 14.0101","AF373221"
+"199","Der p 2 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","NPC2 family
+NPC2家族","Der p 2.0101","AF276239"
+"199","Der p 2 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","NPC2 family
+NPC2家族","Der p 2.0110","FM177223"
+"199","Der p 2 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","NPC2 family
+NPC2家族","Der p 2.0114","AM263560"
+"199","Der p 2 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","NPC2 family
+NPC2家族","Der p 2.0115","FM177223"
+"200","Der p 20","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Arginine kinase
+精氨酸激酶","Der p 20.0101","EU684970"
+"201","Der p 21 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","-","Der p 21.0101","DQ354124"
+"202","Der p 23 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Peritrophin-like protein domain (PF01607)","Der p 23.0101","EU414751.1"
+"203","Der p 3 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Trypsin
+胰蛋白酶","Der p 3.0101","U11719"
+"204","Der p 4 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Alpha amylase
+ α-淀粉酶","Der p 4.0101","AF144060"
+"205","Der p 5 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","-","Der p 5.0101","X17699"
+"205","Der p 5 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","-","Der p 5.0102","S76340"
+"207","Der p 7 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Bactericidal permeability-increasing like protein
+杀菌渗透性 - 像蛋白质一样增加","Der p 7.0101","U37044"
+"208","Der p 8","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Glutathione S-transferase
+ 谷胱甘肽S-转移酶","Der p 8.0101","S75286"
+"209","Der p 9 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Collagenolytic serine protease
+胶原蛋白水解丝氨酸蛋白酶","Der p 9.0101","AY211952"
+"209","Der p 9 ","Dermatophagoides pteronyssinus (European house dust mite)
+ 翼螨（欧洲屋尘螨）","Collagenolytic serine protease
+胶原蛋白水解丝氨酸蛋白酶","Der p 9.0102","AF409111"
+"210","Dol a 5 ","Dolichovespula arenaria (Yellow hornet) 
+黄蜂","Antigen 5
+抗原5","Dol a 5.0101","M98859"
+"211","Dol m 1 ","Dolichovespula maculata (White face hornet) 
+白面大黄蜂","Phospholipase A1B
+磷脂酶A1B","Dol m 1.0101","X66869"
+"212","Dol m 2 ","Dolichovespula maculata (White face hornet) 
+白面大黄蜂","Hyaluronidase
+透明质酸酶","Dol m 2.0101","L34548"
+"213","Dol m 5 ","Dolichovespula maculata (White face hornet) 
+白面大黄蜂","Antigen 5
+抗原5","Dol m 5.0101","J03601"
+"213","Dol m 5 ","Dolichovespula maculata (White face hornet) 
+白面大黄蜂","Antigen 5
+抗原5","Dol m 5.02","J03602"
+"215","Equ c 1 ","Equus caballus (domestic horse) 
+马(家用马)","Lipocalin
+脂质运载","Equ c 1.0101","U70823"
+"217","Equ c 3 ","Equus caballus (domestic horse) 
+马(家用马)","Serum albumin
+血清白蛋白","Equ c 3.0101","X74045"
+"218","Equ c 4","Equus caballus (domestic horse) 
+马(家用马)","Latherin","Equ c 4.0101","AF491288"
+"220","Eur m 1 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","Cysteine protease
+半胱氨酸蛋白酶","Eur m 1.0101","AF047610"
+"220","Eur m 1 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","Cysteine protease
+半胱氨酸蛋白酶","Eur m 1.0102","AF047610(variant)"
+"221","Eur m 14 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","Apolipophorin
+载脂蛋白","Eur m 14.0101","AF149827"
+"222","Eur m 2 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","NPC2 family
+NPC2家族","Eur m 2.0101","AF047613"
+"222","Eur m 2 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","NPC2 family
+NPC2家族","Eur m 2.0102","AF047614(variant)"
+"223","Eur m 3 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","Trypsin
+胰蛋白酶","Eur m 3.0101","AF047615"
+"224","Eur m 4 ","Euroglyphus maynei (House dust mite)
+家尘螨 ","Alpha-amylase
+α-淀粉酶","Eur m 4.0101","AF144061"
+"225","Fel d 1 ","Felis domesticus (cat) 
+猫","Uteroglobin (chain 1)
+子宫珠蛋白（链1）","Fel d 1.0101","M74952(chain1)M77341(chain2)"
+"226","Fel d 2 ","Felis domesticus (cat) 
+猫","Serum albumin
+ 血清白蛋白","Fel d 2.0101","X84842"
+"227","Fel d 3 ","Felis domesticus (cat) 
+猫","Cystatin
+胱抑素","Fel d 3.0101","AF238996"
+"228","Fel d 4 ","Felis domesticus (cat) 
+猫","Lipocalin
+脂质运载","Fel d 4.0101","AY497902"
+"232","For t 1","Forcipomyia taiwana (Biting midge) 
+小黑蚊（蠓叮咬）","Serine/threonine-protein kinase
+丝氨酸/苏氨酸蛋白激酶","For t 1.0101","EU678970"
+"233","For t 2","Forcipomyia taiwana (Biting midge) 
+小黑蚊（蠓叮咬）","Eukaryotic translation initiation factor 3 subunit
+真核翻译起始因子3亚基","For t 2.0101","EU678971"
+"234","Fra e 1","Fraxinus excelsior (Ash) 
+欧洲白蜡树","Ole e 1-like protein family member
+Ole e 1-like蛋白家族成员","Fra e 1.0101","AF526295"
+"234","Fra e 1","Fraxinus excelsior (Ash) 
+欧洲白蜡树","Ole e 1-like protein family member
+Ole e 1-like蛋白家族成员","Fra e 1.0102","AY652744"
+"234","Fra e 1","Fraxinus excelsior (Ash) 
+欧洲白蜡树","Ole e 1-like protein family member
+Ole e 1-like蛋白家族成员","Fra e 1.0201","AY377127"
+"235","Fus c 1 ","Fusarium culmorum (N.A.) 
+枯萎镰刀菌","Ribosomal protein P2
+核糖体蛋白P2","Fus c 1.0101","AY077706"
+"236","Fus c 2 ","Fusarium culmorum (N.A.) 
+枯萎镰刀菌","Thioredoxin-like protein
+硫氧还蛋白样蛋白","Fus c 2.0101","AY077707"
+"237","Gly d 2 ","Glycyphagus domesticus (Storage mite)
+家蚕(贮螨) ","-","Gly d 2.0101","AJ249864"
+"237","Gly d 2 ","Glycyphagus domesticus (Storage mite)
+家蚕(贮螨) ","-","Gly d 2.0201","AJ272216"
+"243","Hel a 2 ","Helianthus annuus (Sunflower) 
+向日葵","Profilin
+肌动蛋白","Hel a 2.0101","Y15210"
+"244","Hev b 1 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Rubber elongation factor
+橡胶伸长率","Hev b 1.0101","X56535"
+"245","Hev b 10 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Superoxide dismutase (Mn)
+超氧化物歧化酶（Mn）","Hev b 10.0101","L11707"
+"245","Hev b 10 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Superoxide dismutase (Mn)
+超氧化物歧化酶（Mn）","Hev b 10.0102","AJ249148"
+"245","Hev b 10 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Superoxide dismutase (Mn)
+超氧化物歧化酶（Mn）","Hev b 10.0103","AJ289158"
+"246","Hev b 11 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Class I chitinase
+I类几丁质酶","Hev b 11.0101","AJ238579"
+"246","Hev b 11 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Class I chitinase
+I类几丁质酶","Hev b 11.0102","AJ431363"
+"247","Hev b 12 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Non-specific lipid transfer protein type 1 (nsLTP1)
+非特异性脂质转移蛋白1型（nsLTP1）","Hev b 12.0101","AY057860"
+"248","Hev b 13 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Esterase
+ 酯酶","Hev b 13.0101","AY283800"
+"249","Hev b 2 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","beta-1,3-glucanase; glucan endo-1,3-beta-glucosidase, basic vacuolar isoform
+β-1,3-葡聚糖酶; 葡聚糖endo-1,3-β-葡萄糖苷酶，碱性液泡异构体","Hev b 2.0101","U22147"
+"250","Hev b 3","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Small rubber particle protein (SRPP)
+小橡胶颗粒蛋白（SRPP）","Hev b 3.0101","AF051317"
+"251","Hev b 4 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Lecithinase homologue; GDSL lipase/esterase family member
+卵磷脂酶同系物; GDSL脂肪酶/酯酶家族成员","Hev b 4.0101","AY437086"
+"252","Hev b 5","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Acidic protein, unknown function
+酸性蛋白质，功能未知","Hev b 5.0101","U42640"
+"252","Hev b 5","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Acidic protein, unknown function
+酸性蛋白质，功能未知","Hev b 5.0101","U51631"
+"253","Hev b 6 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Hevein precursor
+Hevein 前体","Hev b 6.01","M36986"
+"253","Hev b 6 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Hevein precursor
+Hevein 前体","Hev b 6.02","M36986"
+"253","Hev b 6 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Hevein precursor
+Hevein 前体","Hev b 6.03","M36986"
+"254","Hev b 7","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Patatin-like protein
+Patatin样蛋白","Hev b 7.01","U80598"
+"254","Hev b 7","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Patatin-like protein
+Patatin样蛋白","Hev b 7.02","AJ223038"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0101","Y15042"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0102","AJ132397"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0201","AF119365"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0202","AF119366"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0203","AF119367"
+"255","Hev b 8 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Profilin
+肌动蛋白","Hev b 8.0204","AJ243325"
+"256","Hev b 9 ","Hevea brasiliensis (Para rubber tree (latex))
+巴西橡胶树 ","Enolase
+烯醇化酶","Hev b 9.0101","AJ132580"
+"257","Hol l 1 ","Holcus lanatus (Velvet grass) 
+天鹅绒草","Beta-expansin
+β-扩展蛋白","Hol l 1.0101","Z27084"
+"257","Hol l 1 ","Holcus lanatus (Velvet grass) 
+天鹅绒草","Beta-expansin
+β-扩展蛋白","Hol l 1.0102","Z68893"
+"258","Hol l 5","Holcus lanatus (Velvet grass) 
+天鹅绒草","-","Hol l 5.0101","Z97874"
+"258","Hol l 5","Holcus lanatus (Velvet grass) 
+天鹅绒草","-","Hol l 5.0201","Z97875"
+"259","Hom s 1 ","Homo sapiens (human autoallergens)
+人类自动过敏原 ","Squamous cell carcinoma antigen SART-1
+鳞状细胞癌抗原SART-1","Hom s 1.0101","AB006198"
+"260","Hom s 2 ","Homo sapiens (human autoallergens)
+人类自动过敏原 ","Nascent polypeptide-associated complex alpha subunit
+新生多肽相关复合物α亚基","Hom s 2.0101","AY034001"
+"261","Hom s 3 ","Homo sapiens (human autoallergens)
+人类自动过敏原 ","BCL7B protein
+BCL7B蛋白","Hom s 3.0101","X89985"
+"262","Hom s 4 ","Homo sapiens (human autoallergens)
+人类自动过敏原 ","Atopy related autoantigen CALC
+特应性相关的自身抗原CALC","Hom s 4.0101","Y17711"
+"263","Hom s 5","Homo sapiens (human autoallergens)
+人类自动过敏原 ","Keratin, type II cytoskeletal 6A
+角蛋白，II型细胞骨架6A","Hom s 5.0101","BC069269"
+"266","Hor v 5 ","Hordeum vulgare (Barley) 
+大麦（大麦）","-","Hor v 5.0101","U57845"
+"267","Hum j 1 ","
+ Humulus japonicus (Japanese hop) 
+竹节虫(日本啤酒花)","-","Hum j 1.0101","AY335187"
+"268","Jun a 1","Juniperus ashei (Mountain cedar) 
+刺柏·阿斯黑(山雪松)","Pectate lyase
+果胶酸裂解酶","Jun a 1.0101","AF106662"
+"268","Jun a 1","Juniperus ashei (Mountain cedar) 
+刺柏·阿斯黑(山雪松)","Pectate lyase
+果胶酸裂解酶","Jun a 1.0102","AF106663"
+"269","Jun a 2 ","Juniperus ashei (Mountain cedar) 
+刺柏·阿斯黑(山雪松)","Polygalacturonase
+多聚半乳糖","Jun a 2.0101","AJ404653"
+"270","Jun a 3","Juniperus ashei (Mountain cedar) 
+刺柏·阿斯黑(山雪松)","Thaumatin-like protein
+奇异果蛋白样蛋白","Jun a 3.0101","AF121776"
+"271","Jun o 4 ","Juniperus oxycedrus (Prickly juniper)
+刺柏(多刺刺柏) ","Polcalcin-like protein (4 EF hand domains)","Jun o 4.0101","AF031471"
+"273","Jun v 1 ","Juniperus virginiana (Eastern red cedar)
+紫杉木(东红杉木) ","Pectate lyase
+果胶酸裂解酶","Jun v 1.0101","AF151429"
+"273","Jun v 1 ","Juniperus virginiana (Eastern red cedar)
+紫杉木(东红杉木) ","Pectate lyase
+果胶酸裂解酶","Jun v 1.0102","AF151427"
+"274","Jun v 3 ","-","Thaumatin-like protein
+奇异果蛋白样蛋白","Jun v 3.010101","AF151430"
+"274","Jun v 3 ","-","Thaumatin-like protein
+奇异果蛋白样蛋白","Jun v 3.010102","AF151428"
+"275","Lep d 10 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","Tropomyosin
+原肌球蛋白","Lep d 10.0101","AJ250096"
+"276","Lep d 13"," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","Fatty acid-binding protein
+脂肪酸结合蛋白","Lep d 13.0101","AJ250279"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0101","X81399"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0101","X83876"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0101","X89014"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0102","AJ487972"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0201","X83875"
+"277","Lep d 2 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","NPC2 family
+NPC2家族","Lep d 2.0202","AJ487973"
+"278","Lep d 5 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","-","Lep d 5.0101","AJ250278"
+"278","Lep d 5 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","-","Lep d 5.0102","AY288151"
+"278","Lep d 5 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","-","Lep d 5.0103","AY288152"
+"279","Lep d 7 "," Lepidoglyphus destructor (Storage mite)
+破鳞鳞螨(贮藏螨) ","Bactericidal permeability-increasing like protein
+","Lep d 7.0101","AJ271058"
+"280","Lep s 1 ","Lepisma saccharina (Silverfish) 
+鳞翅目（银鱼） ","Tropomyosin
+ 原肌球蛋白","Lep s 1.0101","AJ309202"
+"281","Lig v 1 ","Ligustrum vulgare (Common privet) 
+女贞","Ole e 1-like protein family member
+Ole e 1-like蛋白家族成员","Lig v 1.0101","X77787"
+"281","Lig v 1 ","Ligustrum vulgare (Common privet) 
+女贞","Ole e 1-like protein family member
+Ole e 1-like蛋白家族成员","Lig v 1.0102","X77788"
+"282","Lol p 1 ","Lolium perenne (Rye grass) 
+黑麦草（黑麦草）","Beta-expansin
+β-扩展蛋白","Lol p 1.0101","M57474"
+"282","Lol p 1 ","Lolium perenne (Rye grass) 
+黑麦草（黑麦草）","Beta-expansin
+β-扩展蛋白","Lol p 1.0102","M57476"
+"282","Lol p 1 ","Lolium perenne (Rye grass) 
+黑麦草（黑麦草）","Beta-expansin
+β-扩展蛋白","Lol p 1.0103","X57678"
+"286","Lol p 4","Lolium perenne (Rye grass) 
+黑麦草（黑麦草）","-","Lol p 4.0101","AJ862835"
+"287","Lol p 5","Lolium perenne (Rye grass) 
+黑麦草（黑麦草）","-","Lol p 5.0101","L13083"
+"288","Mala f 2 ","Malassezia furfur (Pityriasis versicolor skin infection) 
+糠疹马拉色菌(花斑糠疹皮肤感染)","Peroxysomal membrane protein
+过氧化物酶膜蛋白","Mala f 2.0101","AB011804"
+"289","Mala f 3 ","Malassezia furfur (Pityriasis versicolor skin infection) 
+糠疹马拉色菌(花斑糠疹皮肤感染)","Peroxysomal membrane protein
+过氧化物酶膜蛋白","Mala f 3.0101","AB011805"
+"290","Mala f 4 ","Malassezia furfur (Pityriasis versicolor skin infection) 
+糠疹马拉色菌(花斑糠疹皮肤感染)","Mitochondrial malate dehydrogenase
+线粒体苹果酸脱氢酶","Mala f 4.0101","AF084828"
+"291","Mala s 1 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","-","Mala s 1.0101","X96486"
+"292","Mala s 10 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","heat shock protein 70
+热休克蛋白70","Mala s 10.0101","AJ428052"
+"293","Mala s 11 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","manganese superoxide dismutase
+ 锰超氧化物歧化酶","Mala s 11.0101","AJ548421"
+"294","Mala s 12 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","glucose-methanol-choline (GMC) oxidoreductase
+葡萄糖 - 甲醇 - 胆碱（GMC）氧化还原酶","Mala s 12.0101","AJ871960"
+"295","Mala s 13","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","Thioredoxin
+硫氧还蛋白","Mala s 13.0101","AJ937746"
+"296","Mala s 5 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","-","Mala s 5.0101","AJ011955"
+"297","Mala s 6","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","Cyclophilin
+亲环素","Mala s 6.0101","AJ011956"
+"298","Mala s 7 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","-","Mala s 7.0101","AJ011957"
+"299","Mala s 8 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","-","Mala s 8.0101","AJ011958"
+"300","Mala s 9 ","Malassezia sympodialis (Skin fungus)
+马钱子病(皮肤真菌) ","-","Mala s 9.0101","AJ011959"
+"301","Mus m 1","Mus musculus (mouse) 
+鼠","Lipocalin/ urinary prealbumin
+ 脂质运载蛋白/尿前白蛋白","Mus m 1.0101","X03208"
+"301","Mus m 1","Mus musculus (mouse) 
+鼠","Lipocalin/ urinary prealbumin
+ 脂质运载蛋白/尿前白蛋白","Mus m 1.0102","M16356"
+"302","Mer a 1 ","Mercurialis annua (Annual mercury) 
+银汞(年汞)","Profilin
+肌动蛋白","Mer a 1.0101","Y13271"
+"303","Myr p 1","Myrmecia pilosula (Australian jumper ant)
+毛蚁(澳大利亚跳蚁) ","-","Myr p 1.0101","X70256"
+"304","Myr p 2 ","Myrmecia pilosula (Australian jumper ant)
+毛蚁(澳大利亚跳蚁) ","pilosulin-3
+纤溶酶-3","Myr p 2.0101","S81785"
+"304","Myr p 2 ","Myrmecia pilosula (Australian jumper ant)
+毛蚁(澳大利亚跳蚁) ","pilosulin-3
+纤溶酶-3","Myr p 2.0102","S81785"
+"305","Myr p 3 ","Myrmecia pilosula (Australian jumper ant)
+毛蚁(澳大利亚跳蚁) ","pilosulin-4.1
+纤溶酶-4.1","Myr p 3.0101","AB128065"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0101","S75766"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0102","X76395"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0103","X76396"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0104","X76397"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0105","Y12428"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0106","Y12427"
+"306","Ole e 1 ","Olea europaea (Olive) 
+橄榄","Common olive group 1
+常见的橄榄组1","Ole e 1.0107","Y12426"
+"307","Ole e 10","Olea europaea (Olive) 
+橄榄","X8 domain containing protein
+含有X8结构域的蛋白质","Ole e 10.0101","AY082335"
+"308","Ole e 2 ","Olea europaea (Olive) 
+橄榄","Profilin-1
+肌动蛋白-1","Ole e 2.0101","Y12425"
+"309","Ole e 3","Olea europaea (Olive) 
+橄榄","Polcalcin","Ole e 3.0101","AF015810"
+"312","Ole e 6 ","Olea europaea (Olive) 
+橄榄","-","Ole e 6.0101","U86342"
+"314","Ole e 8 ","Olea europaea (Olive) 
+橄榄","Polcalcin-like protein (4 EF-hands)","Ole e 8.0101","AF078679"
+"315","Ole e 9 ","Olea europaea (Olive) 
+橄榄","1 3-beta glucanase
+1 3-β葡聚糖酶","Ole e 9.0101","AF249675"
+"317","Ory s 1 ","Oryza sativa (Rice) 
+水稻","Beta-expansin
+β-扩展蛋白","Ory s 1.0101","U31771"
+"318","Par j 1 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 1.0101","X77414"
+"318","Par j 1 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 1.0102","X95867"
+"318","Par j 1 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 1.0103","AJ969433"
+"318","Par j 1 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 1.0201","X85012"
+"319","Par j 2 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 2.0101","X95865"
+"319","Par j 2 ","Parietaria judaica (Pellitory-of-the-Wall) ","Phospholipid transfer protein
+磷脂转移蛋白","Par j 2.0102","X95866"
+"320","Par j 3 ","Parietaria judaica (Pellitory-of-the-Wall) ","Profilin
+肌动蛋白","Par j 3.0101","Y15208"
+"320","Par j 3 ","Parietaria judaica (Pellitory-of-the-Wall) ","Profilin
+肌动蛋白","Par j 3.0102","Y15209"
+"320","Par j 3 ","Parietaria judaica (Pellitory-of-the-Wall) ","Profilin
+肌动蛋白","Par j 3.0201","HF563053"
+"321","Par j 4 ","Parietaria judaica (Pellitory-of-the-Wall) ","Polcalcin","Par j 4.0101","AM884396"
+"323","Pas n 1 ","Paspalum notatum (Bahia grass) 
+雀稗（巴伊亚草）","Beta expansin
+ β扩展蛋白","Pas n 1.0101","EU327342"
+"325","Pen b 26 ","Penicillium brevicompactum (Penicillin)
+短青霉（青霉素） ","Acidic ribosomal prot. P1
+酸性核糖体蛋白P1","Pen b 26.0101","AY786077"
+"327","Pen c 19 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","Heat shock protein P70
+热休克蛋白P70","Pen c 19.0101","U64207"
+"328","Pen c 22 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","Enolase
+ 烯醇化酶","Pen c 22.0101","AF254643"
+"329","Pen c 24 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","elongation factor 1 beta
+伸长因子1 β","Pen c 24.0101","AY363911"
+"330","Pen c 3 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","Peroxysomal membrane protein
+ 过氧化物酶膜蛋白","Pen c 3.0101","AF144753"
+"331","Pen c 30 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","Catalase
+过氧化氢酶","Pen c 30.0101","DQ288844"
+"332","Pen c 32 ","Penicillium citrinum (Penicillin) 
+桔青霉（青霉素）","Pectate lyase
+ 果胶酸裂解酶","Pen c 32.0101","EF159713"
+"333","Pen ch 13 ","Penicillium chrysogenum (Penicillin)
+产黄青霉（青霉素） ","Alkaline serine protease
+碱性丝氨酸蛋白酶","Pen ch 13.0101","AF193420"
+"334","Pen ch 18 ","Penicillium chrysogenum (Penicillin)
+产黄青霉（青霉素） ","Vacuolar serine protease
+液泡丝氨酸蛋白酶","Pen ch 18.0101","AF264027"
+"335","Pen ch 20 ","Penicillium chrysogenum (Penicillin)
+产黄青霉（青霉素） ","N-acetyl-glucosaminidase
+ N-乙酰基氨基葡萄糖苷酶","Pen ch 20.0101","S77837"
+"336","Pen ch 31","Penicillium chrysogenum (Penicillin)
+产黄青霉（青霉素） ","Calreticulin
+ 钙网蛋白","Pen ch 31.0101","AY850367"
+"337","Pen ch 33 ","Penicillium chrysogenum (Penicillin)
+产黄青霉（青霉素） ","-","Pen ch 33.0101","EF206657.1"
+"338","Pen o 18","Penicillium oxalicum (Penicillin ) 
+草酸青霉（青霉素）","Vacuolar serine protease
+液泡丝氨酸蛋白酶","Pen o 18.0101","AF243425"
+"339","Per a 10","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Serine protease
+丝氨酸蛋白酶","Per a 10.0101","AY792954"
+"340","Per a 3 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Arylphorins/TO Arthropod hemocyanins
+芳基蛋白/节肢动物血蓝蛋白","Per a 3.0101","L40818"
+"340","Per a 3 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Arylphorins/TO Arthropod hemocyanins
+芳基蛋白/节肢动物血蓝蛋白","Per a 3.0201","L40820"
+"340","Per a 3 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Arylphorins/TO Arthropod hemocyanins
+芳基蛋白/节肢动物血蓝蛋白","Per a 3.0202","L40819"
+"340","Per a 3 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Arylphorins/TO Arthropod hemocyanins
+芳基蛋白/节肢动物血蓝蛋白","Per a 3.0203","L40821"
+"341","Per a 6 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Troponin C
+肌钙蛋白C.","Per a 6.0101","AY792950"
+"342","Per a 7","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Tropomyosin
+原肌球蛋白","Per a 7.0101","Y14854"
+"342","Per a 7","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Tropomyosin
+原肌球蛋白","Per a 7.0102","AF106961"
+"343","Per a 9 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","Arginine kinase
+ 精氨酸激酶","Per a 9.0101","EU429466"
+"344","Pha a 1 ","Phalaris aquatica (Canary grass) 
+水蝴蝶兰(金丝雀草)","Beta-expansin
+β-扩展蛋白","Pha a 1.0101","S80654"
+"346","Phl p 1 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Beta-expansin
+ β-扩展蛋白","Phl p 1.0101","Z27090"
+"346","Phl p 1 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Beta-expansin
+ β-扩展蛋白","Phl p 1.0102","X78813"
+"347","Phl p 11 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Ole e 1-related protein
+ Ole e 1相关蛋白","Phl p 11.0101","AF521563"
+"348","Phl p 12 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Profilin
+肌动蛋白","Phl p 12.0101","X77583"
+"348","Phl p 12 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Profilin
+肌动蛋白","Phl p 12.0102","Y09456"
+"348","Phl p 12 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Profilin
+肌动蛋白","Phl p 12.0103","Y09457"
+"349","Phl p 13 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Polygalacturonase
+多聚半乳糖","Phl p 13.0101","AJ238848"
+"350","Phl p 2 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Grass group II/III","Phl p 2.0101","X75925"
+"351","Phl p 4 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Berberine bridge enzyme
+小檗碱桥酶","Phl p 4.0101","AJ512487"
+"351","Phl p 4 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Berberine bridge enzyme
+小檗碱桥酶","Phl p 4.0201","AJ512488"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0101","X74735"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0102","X70942"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0103","AF069470"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0104","Z82986"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0105","AF061066"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0106","AF061067"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0107","AF061068"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0108","AF061069"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0109","AJ555152"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0201","Z27083"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0202","Z82985"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0203","AF069471"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0206","AF069473"
+"352","Phl p 5 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 5.0207","AF069474"
+"353","Phl p 6","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 6.0101","Z27082"
+"353","Phl p 6","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","-","Phl p 6.0102","Y16955"
+"354","Phl p 7 ","Phleum pratense (Timothy) 
+梯牧草属（猫尾草）","Polcalcin","Phl p 7.0101","Y17835"
+"355","Pho d 2 ","Phoenix dactylifera (Date palm) 
+枣椰树","Profilin
+肌动蛋白","Pho d 2.0101","AJ417566"
+"356","Pla a 1 ","Platanus acerifolia (London plane tree)
+悬铃木（伦敦梧桐）","Putative invertase inhibitor
+推定的转化酶抑制剂","Pla a 1.0101","AJ427413"
+"357","Pla a 2","Platanus acerifolia (London plane tree)
+悬铃木（伦敦梧桐）","Polygalacturonase
+多聚半乳糖","Pla a 2.0101","AJ586898"
+"359","Pla l 1 ","Plantago lanceolata (English plantain) 
+车前草（英国车前草）","Ole e 1-related protein
+Ole e 1相关蛋白","Pla l 1.0101","AJ313166"
+"359","Pla l 1 ","Plantago lanceolata (English plantain) 
+车前草（英国车前草）","Ole e 1-related protein
+Ole e 1相关蛋白","Pla l 1.0102","AJ313167"
+"359","Pla l 1 ","Plantago lanceolata (English plantain) 
+车前草（英国车前草）","Ole e 1-related protein
+Ole e 1相关蛋白","Pla l 1.0103","AJ313168"
+"360","Pla or 1 ","Platanus orientalis (Oriental plane) 
+法桐（东方平面）","Plant invertase/pectin methylesterase inhibitor
+植物转化酶/果胶甲酯酶抑制剂","Pla or 1.0101","EU296476"
+"361","Pla or 2 ","-","Polygalacturonase
+多聚半乳糖","Pla or 2.0101","EU296477"
+"362","Pla or 3 ","-","nsLTP1","Pla or 3.0101","EU296478"
+"363","Plo i 1 ","Plodia interpunctella (Indianmeal moth)
+印度粉蛾 ","Arginine kinase
+精氨酸激酶","Plo i 1.0101","AJ315030"
+"364","Poa p 1 ","Poa pratensis (Kentucky blue grass)
+蒲公英(肯塔基蓝草) ","Beta-expansin
+β-扩展蛋白","Poa p 1.0101","AJ131850"
+"365","Poa p 5 ","Poa pratensis (Kentucky blue grass)
+蒲公英(肯塔基蓝草) ","-","Poa p 5.0101","AF306707"
+"366","Pol a 1","Polistes annularis (Wasp)
+黄蜂 ","Phospholipase A1B
+磷脂酶A1B","Pol a 1.0101","AF174527"
+"367","Pol a 2 ","Polistes annularis (Wasp)
+黄蜂 ","Hyaluronidase
+透明质酸酶","Pol a 2.0101","AF174528"
+"368","Pol a 5 ","Polistes annularis (Wasp)
+黄蜂 ","Antigen 5
+抗原5","Pol a 5.0101","M98857"
+"369","Pol d 1 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Phospholipase A1
+磷脂酶A1","Pol d 1.0101","AY566645"
+"369","Pol d 1 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Phospholipase A1
+磷脂酶A1","Pol d 1.0102","AY566646"
+"369","Pol d 1 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Phospholipase A1
+磷脂酶A1","Pol d 1.0103","AY566647"
+"369","Pol d 1 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Phospholipase A1
+磷脂酶A1","Pol d 1.0104","AY566649"
+"370","Pol d 4 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Serine protease
+ 丝氨酸蛋白酶","Pol d 4.0101","AY285998"
+"371","Pol d 5 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸蜂","Antigen 5
+ 抗原5","Pol d 5.0101","AY685000"
+"374","Pol e 5 ","Polistes exclamans (Wasp) 
+黄蜂","Antigen 5
+抗原5","Pol e 5.0101","AY684999"
+"379","Poly p 1 ","Polybia paulista (Wasp) 
+黄蜂","Phospholipase A1
+磷脂酶A1","Poly p 1.0101","EF101736"
+"379","Poly p 1 ","Polybia paulista (Wasp) 
+黄蜂","Phospholipase A1
+磷脂酶A1","Que a 1.0201","EU283862"
+"379","Poly p 1 ","Polybia paulista (Wasp) 
+黄蜂","Phospholipase A1
+磷脂酶A1","Que a 1.0301","EU283863"
+"379","Poly p 1 ","Polybia paulista (Wasp) 
+黄蜂","Phospholipase A1
+磷脂酶A1","Que a 1.0401","EU283864"
+"384","Rat n 1 ","Rattus norvegicus (Rat) 
+褐家鼠（大鼠）","Alpha-2u-globulin/ Lipocalin
+α-2u-球蛋白/ Lipocalin","Rat n 1.0101","J00737"
+"385","Rho m 1 ","Rhodotorula mucilaginosa (Yeast) 
+粘红酵母（酵母）","Enolase
+烯醇化酶","Rho m 1.0101","AF382946"
+"386","Rho m 2","Rhodotorula mucilaginosa (Yeast) 
+粘红酵母（酵母）","vacuolar serine protease
+液泡丝氨酸蛋白酶","Rho m 2.0101","AY547285"
+"386","Rho m 2","Rhodotorula mucilaginosa (Yeast) 
+粘红酵母（酵母）","vacuolar serine protease
+液泡丝氨酸蛋白酶","Sal k 1.0201","AY590141"
+"386","Rho m 2","Rhodotorula mucilaginosa (Yeast) 
+粘红酵母（酵母）","vacuolar serine protease
+液泡丝氨酸蛋白酶","Sal k 1.0301","AY776249"
+"386","Rho m 2","Rhodotorula mucilaginosa (Yeast) 
+粘红酵母（酵母）","vacuolar serine protease
+液泡丝氨酸蛋白酶","Sal k 1.0302","AY776248"
+"388","Sal k 2 ","Salsola kali (Russian thistle, Saltwort)
+俄罗斯蓟","Protein kinase homologue
+蛋白激酶同系物","Sal k 2.0101","AF449490"
+"389","Sal k 3 ","Salsola kali (Russian thistle, Saltwort)
+俄罗斯蓟","Cobalamin independent methionine synthase
+ 钴胺素独立的蛋氨酸合成酶","Sal k 3.0101","FJ821454"
+"390","Sal k 4 ","Salsola kali (Russian thistle, Saltwort)
+俄罗斯蓟","Profilin
+肌动蛋白","Sal k 4.0101","GQ145223"
+"390","Sal k 4 ","Salsola kali (Russian thistle, Saltwort)
+俄罗斯蓟","Profilin
+肌动蛋白","Sal k 4.0201","GQ427675"
+"391","Sal k 5 ","Salsola kali (Russian thistle, Saltwort)
+俄罗斯蓟","Ole e 1-like protein
+Ole e 1样蛋白质","Sal k 5.0101","GQ427676"
+"395","Sol g 4 ","Solenopsis geminata (Tropical fire ant)
+热带火蚁","-","Sol g 4.0101","AF230383"
+"395","Sol g 4 ","Solenopsis geminata (Tropical fire ant)
+热带火蚁","-","Sol g 4.0201","AF230384"
+"396","Sol i 1 ","Solenopsis invicta (Red imported fire ant) 
+红火蚁","Phospholipase A1B
+磷脂酶A1B","Sol i 1.0101","AY684998"
+"397","Sol i 2 ","Solenopsis invicta (Red imported fire ant) 
+红火蚁","-","Sol i 2.0101","L09560"
+"398","Sol i 3 ","Solenopsis invicta (Red imported fire ant) 
+红火蚁","-","Sol i 3.0101","AF012919"
+"399","Sol i 4 ","Solenopsis invicta (Red imported fire ant) 
+红火蚁","-","Sol i 4.0101","AF103805"
+"402","Sol s 2 ","Solenopsis saevissima (Brazilian fire ant) 
+巴西火蚁","-","Sol s 2.0101","DQ342279"
+"404","Sor h 1 ","Sorghum halepense (Johnson grass)
+高粱(约翰逊草) ","Beta-expansin
+β-扩展蛋白","Sor h 1.0101","KF887425"
+"404","Sor h 1 ","Sorghum halepense (Johnson grass)
+高粱(约翰逊草) ","Beta-expansin
+β-扩展蛋白","Sor h 1.0201","KF887426"
+"405","Syr v 1","Syringa vulgaris (Lilac) 
+紫丁香（丁香）","Ole e 1-related protein
+Ole e 1相关蛋白","Syr v 1.0101","X76541"
+"405","Syr v 1","Syringa vulgaris (Lilac) 
+紫丁香（丁香）","Ole e 1-related protein
+Ole e 1相关蛋白","Syr v 1.0102","X76539"
+"405","Syr v 1","Syringa vulgaris (Lilac) 
+紫丁香（丁香）","Ole e 1-related protein
+Ole e 1相关蛋白","Syr v 1.0103","X76540"
+"406","Syr v 3 ","Syringa vulgaris (Lilac) 
+紫丁香（丁香）","Polcalcin","Syr v 3.0101","AF078681"
+"408","Tri a 12 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Profilin","Tri a 12.0101","X89825"
+"408","Tri a 12 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Profilin","Tri a 12.0102","X89826"
+"408","Tri a 12 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Profilin","Tri a 12.0103","X89827"
+"408","Tri a 12 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Profilin","Tri a 12.0104","FM164277"
+"409","Tri a 27 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Thiol reductase homologue
+硫醇还原酶同系物","Tri a 27.0101","FN393742AB085212"
+"410","Tri a 28 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Dimeric alpha-amylase inhibitor 0.19
+二聚体α-淀粉酶抑制剂0.19","Tri a 28.0101","AJ966333"
+"411","Tri a 29 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Tetrameric alpha-amylase inhibitor CM1/CM2
+四聚体α-淀粉酶抑制剂CM1 / CM2","Tri a 29.0101","FN429984"
+"411","Tri a 29 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Tetrameric alpha-amylase inhibitor CM1/CM2
+四聚体α-淀粉酶抑制剂CM1 / CM2","Tri a 29.0201","FN435984"
+"412","Tri a 30 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Tetrameric alpha-amylase inhibitor CM3
+ 四聚体α-淀粉酶抑制剂CM3","Tri a 30.0101","X17574"
+"414","Tria p 1 ","Triatoma protracta (California kissing bug) 
+长柄三瘤虫（加利福尼亚接吻虫）","Procalin","Tria p 1.0101","AF179004"
+"415","Tyr p 10","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Tropomyosin
+原肌球蛋白","Tyr p 10.0101","AY623832"
+"416","Tyr p 13 ","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Fatty-acid binding protein
+脂肪酸结合蛋白","Tyr p 13.0101","AY710432"
+"417","Tyr p 2","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","NPC2 family
+NPC2家族","Tyr p 2.0101","Y12690"
+"418","Tyr p 34","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Troponin C
+肌钙蛋白C.","Tyr p 34.0101","FJ534553"
+"420","Ves g 5 ","Vespula germanica (Yellow jacket) 
+黄蜂","Antigen 5
+抗原5","Ves g 5.0101","AM083317"
+"427","Ves v 1","Vespula vulgaris (Yellow jacket) 
+黄蜂","Phospholipase A1B
+ 磷脂酶A1B","Ves v 1.0101","L43561"
+"428","Ves v 2 ","Vespula vulgaris (Yellow jacket) 
+黄蜂","Hyaluronidase
+透明质酸酶","Ves v 2.0101","AJ920395"
+"428","Ves v 2 ","Vespula vulgaris (Yellow jacket) 
+黄蜂","Hyaluronidase
+透明质酸酶","Ves v 2.0201","AY845866"
+"429","Ves v 3","Vespula vulgaris (Yellow jacket) 
+黄蜂","Dipeptidylpeptidase IV
+二肽基肽酶IV","Ves v 3.0101","EU420987"
+"430","Ves v 5 ","Vespula vulgaris (Yellow jacket) 
+黄蜂","Antigen 5
+抗原5","Ves v 5.0101","M98858"
+"436","Zea m 1 ","Zea mays (Maize) 
+玉米（玉米）","Beta-expansin
+β-扩展蛋白","Zea m 1.0101","L14271"
+"437","Zea m 12 ","Zea mays (Maize) 
+玉米（玉米）","Profilin
+肌动蛋白","Zea m 12.0101","X73279"
+"437","Zea m 12 ","Zea mays (Maize) 
+玉米（玉米）","Profilin
+肌动蛋白","Zea m 12.0102","X73280"
+"437","Zea m 12 ","Zea mays (Maize) 
+玉米（玉米）","Profilin
+肌动蛋白","Zea m 12.0103","X73281"
+"437","Zea m 12 ","Zea mays (Maize) 
+玉米（玉米）","Profilin
+肌动蛋白","Zea m 12.0104","AF032370"
+"437","Zea m 12 ","Zea mays (Maize) 
+玉米（玉米）","Profilin
+肌动蛋白","Zea m 12.0105","AF201459"
+"438","Zea m 25 ","Zea mays (Maize) 
+玉米（玉米）","thioredoxin
+硫氧还蛋白","Zea m 25.0101","AJ890020"
+"439","Fel d 7 ","Felis domesticus (cat) 
+猫科动物（猫）","von Ebner gland protein","Fel d 7.0101","GU108332"
+"440","Glo m 5 ","Glossina morsitans (Savannah Tsetse Fly) 
+蝇","Tsetse antigen 5, CAP protein superfamily member
+Tsetse抗原5，CAP蛋白超家族成员","Glo m 5.0101","AF259957"
+"441","Hev b 14 ","Hevea brasiliensis (Para rubber tree (latex)) 
+巴西橡胶树","Hevamine
+    几丁质酶 ","Hev b 14.0101","GU188389"
+"442","Cla c 14","Cladosporium cladosporioides 
+枝孢菌","Transaldolase
+转醛缩酶","Cla c 14.0101","GQ906475"
+"443","Pen ch 35 ","Penicillium chrysogenum (Penicillin) 
+产黄青霉（青霉素）","Transaldolase
+转醛缩酶","Pen ch 35.0101","GQ925430"
+"444","Ole e 11 ","Olea europaea (Olive) 
+橄榄","Pectin methylesterase
+果胶甲酯酶","Ole e 11.0101","GU084173"
+"445","Amb a 4 ","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Defensin-like protein
+防御素样蛋白","Amb a 4.0101","FN687761"
+"446","Fag s 1 ","Fagus sylvatica (European beech) 
+欧洲山毛榉","Pathogenesis-related protein, PR-10, Bet v 1 family member
+发病相关蛋白，PR-10，Bet v 1家族成员","Fag s 1.0101","FJ390846"
+"447","Ost c 1 ","Ostrya carpinifolia (European hophornbeam) 
+欧洲铁木","Pathogenesis-related protein, PR-10, Bet v 1 family member
+ 发病相关蛋白，PR-10，Bet v 1家族成员","Ost c 1.0101","HM366608"
+"447","Ost c 1 ","Ostrya carpinifolia (European hophornbeam) 
+欧洲铁木","Pathogenesis-related protein, PR-10, Bet v 1 family member
+ 发病相关蛋白，PR-10，Bet v 1家族成员","Lip b 1.0101","LC177784"
+"447","Ost c 1 ","Ostrya carpinifolia (European hophornbeam) 
+欧洲铁木","Pathogenesis-related protein, PR-10, Bet v 1 family member
+ 发病相关蛋白，PR-10，Bet v 1家族成员","Lip b 1.0102","LC177783"
+"449","Fel d 8 ","Felis domesticus (cat) 
+猫科动物（猫）","Latherin-like protein","Fel d 8.0101","HM187582"
+"450","Tab y 2 ","Tabanus yao (Horsefly)
+马蝇 ","Hyaluronidase
+透明质酸酶","Tab y 2.0101","GU321119"
+"451","Tab y 5 ","Tabanus yao (Horsefly)
+马蝇 ","Antigen 5-related protein, CAP protein superfamily member
+抗原5相关蛋白，CAP蛋白超家族成员","Tab y 5.0101","GU321118"
+"452","Can f 6 ","Canis familiaris (dog) 
+犬科动物（狗）","Lipocalin
+脂质运载蛋白","Can f 6.0101","HE653774"
+"453","Plo i 2 ","Plodia interpunctella (Indianmeal moth) 
+印度粉蛾","Thioredoxin
+硫氧还蛋白","Plo i 2.0101","FR681573"
+"454","Tyr p 3 ","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Trypsin
+胰蛋白酶","Tyr p 3.0101","EU302595"
+"455","Tab y 1 ","Tabanus yao (Horsefly)
+马蝇 ","Apyrase
+腺苷三磷酸双","Tab y 1.0101","JF308210"
+"456","Tri a 15","Triticum aestivum (Wheat) 
+小麦（小麦）","Monomeric alpha-amylase inhibitor 0.28
+单体α-淀粉酶抑制剂0.28","Tri a 15.0101","FN435985"
+"457","Tri a 21 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Alpha-beta-gliadin
+α-β-醇溶蛋白","Tri a 21.0101","FN391140"
+"458","Tri a 31 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Triosephosphate-isomerase
+磷酸丙糖异构酶","Tri a 31.0101","AJ278243"
+"459","Tri a 32","Triticum aestivum (Wheat) 
+小麦（小麦）","1-cys-peroxiredoxin
+ 1-CYS-过氧氧化还原酶","Tri a 32.0101","AY304482"
+"460","Tri a 33","Triticum aestivum (Wheat) 
+小麦（小麦）","Serpin
+抑制物","Tri a 33.0101","AJ245879"
+"461","Tri a 34 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Glyceraldehyde-3-phosphate-dehydrogenase
+甘油醛-3-磷酸脱氢酶","Tri a 34.0101","FN429985"
+"462","Tri a 35","Triticum aestivum (Wheat) 
+小麦（小麦）","Dehydrin
+脱水蛋白","Tri a 35.0101","FN393741"
+"463","Asp v 13 ","Aspergillus versicolor 
+花斑曲霉","Extracellular alkaline serine protease
+ 细胞外碱性丝氨酸蛋白酶","Asp v 13.0101","GU827714"
+"464","Sta c 3 ","Stachybotrys chartarum ","Extracellular alkaline Mg-dependent exodesoxyribonuclease
+细胞外碱性Mg依赖性外切核糖核酸酶","Sta c 3.0101","GQ258855"
+"465","Cof a 1 ","Coffea arabica (Arabian coffee) 
+阿拉伯咖啡","Class III chitinase
+ III类几丁质酶","Cof a 1.0101","HM051339"
+"466","Sec c 5","Secale cereale (Rye) 
+黑麦（黑麦）","Group 5 grass pollen allergen
+第5组草花粉过敏原","Sec c 5.0101","FN555204"
+"468","Api m 11 ","Apis mellifera (Honey bee) 
+蜜蜂","Major royal jelly protein 
+主要的蜂王浆蛋白质","Api m 11.0101","NM_001011564"
+"468","Api m 11 ","Apis mellifera (Honey bee) 
+蜜蜂","Major royal jelly protein 
+主要的蜂王浆蛋白质","Api m 11.0201","DQ000307"
+"470","Api m 12 ","Apis mellifera (Honey bee) 
+蜜蜂","Vitellogenin
+卵黄蛋白原","Api m 12.0101","AJ517411"
+"471","Ves v 6","Vespula vulgaris (Yellow jacket) 
+黄蜂","Vitellogenin
+卵黄蛋白原","Ves v 6.0101","JN794080"
+"472","Pen cr 26 ","Penicillium crustosum 
+青霉","60S acidic ribosomal phosphoprotein P1
+60S酸性核糖体磷蛋白P1","Pen cr 26.0101","JN791438"
+"473","Sch c 1","Schizophyllum commune 
+裂褶菌 ","Glucoamylase
+糖化酶","Sch c 1.0101","XM_003030545"
+"474","Bla g 3 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Hemocyanin
+ 血蓝蛋白","Bla g 3.0101","GU086323"
+"475","Cav p 4","Cavia porcellus (guinea pig) 
+豚鼠（豚鼠）","Serum albumin
+血清白蛋白","Cav p 4.0101","AY294645"
+"476","Cav p 6 ","Cavia porcellus (guinea pig) 
+豚鼠（豚鼠）","Lipocalin
+脂质运载","Cav p 6.0101","FN256286(tobereleaseduponpublication)"
+"477","Ory c 3 ","Oryctolagus cuniculus (rabbit)
+欧洲野兔（兔） ","Lipophilin
+亲脂素 ","Ory c 3.A.0101","AF308618"
+"477","Ory c 3 ","Oryctolagus cuniculus (rabbit)
+欧洲野兔（兔） ","Lipophilin
+亲脂素 ","Ory c 3.B.0101","AF308614"
+"478","Tri a 39 ","Triticum aestivum (Wheat)
+小麦（小麦） ","Serine protease inhibitor-like protein
+丝氨酸蛋白酶抑制剂样蛋白","Tri a 39.0101","HE972340"
+"479","Der p 15","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Chitinase-like protein
+ 几丁质酶样蛋白","Der p 15.0101","DQ078741"
+"479","Der p 15","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Chitinase-like protein
+ 几丁质酶样蛋白","Der p 15.0102","DQ078740"
+"480","Der p 18","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Chitin-binding protein
+几丁质结合蛋白","Der p 18.0101","DQ078739"
+"481","Der f 24","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Ubiquinol-cytochrome c reductase binding protein homologue
+泛醇 - 细胞色素c还原酶结合蛋白同系物","Der f 24.0101","KC669700"
+"482","Cof a 2 ","Coffea arabica (Arabian coffee) 
+阿拉伯咖啡","Metallothionein type 2
+金属硫蛋白2型","Cof a 2.0101","KC570455"
+"483","Cof a 3","Coffea arabica (Arabian coffee) 
+阿拉伯咖啡","Metallothionein type 3
+金属硫蛋白3型","Cof a 3.0101","KC570456"
+"484","Asc l 13 ","Ascaris lumbricoides (Common roundworm)
+蛔虫（常见蛔虫） ","Glutathione S-transferase (GST)
+谷胱甘肽S-转移酶（GST）","Asc l 13.0101w","BU585392"
+"485","Bla g 11","
+Blattella germanica (German cockroach)
+ 德国小蠊(德国蟑螂)","Alpha-amylase
+ α-淀粉酶","Bla g 11.0101","DQ355516"
+"485","Bla g 11","
+Blattella germanica (German cockroach)
+ 德国小蠊(德国蟑螂)","Alpha-amylase
+ α-淀粉酶","Bla g 11.0101","KC207403"
+"486","Ory c 4 ","Oryctolagus cuniculus (rabbit) 
+欧洲野兔（兔）","Lipocalin
+脂质运载","Ory c 4.0101","FR874845"
+"487","Amb a 11 ","Ambrosia artemisiifolia (Short ragweed) 
+青蒿(短豚草)","Cysteine protease
+半胱氨酸蛋白酶","Amb a 11.0101","KF528831"
+"488","Blo t 8","Blomia tropicalis (Storage mite) 
+热带假丝酵母（存储螨）","Glutathione S-transferase
+ 谷胱甘肽S-转移酶","Blo t 8.0101","GQ398117"
+"489","Fus p 4 ","Fusarium proliferatum 
+增生镰刀菌","Transaldolase
+转醛","Fus p 4.0101","KF151224"
+"490","Alt a 14 ","Alternaria alternata (Alternaria plant rot fungus) 
+链格孢菌（链格孢植物腐真菌）","Manganese superoxide dismutase
+锰超氧化物歧化酶","Alt a 14.0101","KC923297"
+"491","Der f 21","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","-","Der f 21.0101","KF732965(tobereleaseduponpublication)"
+"492","Hev b 15 ","Hevea brasiliensis (Para rubber tree (latex)) 
+巴西橡胶树","Serine protease inhibitor
+丝氨酸蛋白酶抑制剂","Hev b 15.0101","HF937118"
+"493","Sor h 13 ","Sorghum halepense (Johnson grass) 
+Sorghum halepense (Johnson grass) ","Exopolygalacturonase (Glycosyl hydrolase 28)
+外多聚半乳糖醛酸酶（糖基水解酶28）","Sor h 13.0101","KF887429"
+"493","Sor h 13 ","Sorghum halepense (Johnson grass) 
+Sorghum halepense (Johnson grass) ","Exopolygalacturonase (Glycosyl hydrolase 28)
+外多聚半乳糖醛酸酶（糖基水解酶28）","Sor h 13.0201","KF887430"
+"494","Can s 3 ","Cannabis sativa (Indian hemp) 
+大麻（印度大麻）","Non-specific lipid transfer protein type 1
+非特异性脂质转移蛋白1型","Can s 3.0101","HE972341"
+"495","Pro j 2 ","Prosopis juliflora (Mesquite) 
+牧豆树（豆荚）","Profilin
+肌动蛋白","Pro j 2.0101","KJ462467"
+"496","Per a 2 ","Periplaneta americana (American cockroach) 
+美洲大蠊(美洲蟑螂)","aspartatic protease-like
+ 天冬氨酸蛋白酶样","Per a 2.0101","GU188391"
+"497","Fus p 9 ","Fusarium proliferatum 
+增生镰刀菌","Vacuolar serine protease
+液泡丝氨酸蛋白酶","Fus p 9.0101","KJ462778"
+"498","Koc s 2 ","Kochia scoparia (Burning bush) 
+地肤（灌木）
+","Profilin
+肌动蛋白","Koc s 2.0101","KM266373"
+"499","Aca f 2 ","Acacia farnesiana (Vachellia farnesiana) (Needle bush) 
+金合欢(金合欢)(针衬)","Profilin
+肌动蛋白","Aca f 2.0101","KM266374.1"
+"500","Asc s 13 ","Ascaris suum (Pig roundworm) 
+猪蛔虫","Glutathione S-transferase
+谷胱甘肽S-转移酶","Asc s 13.0101","X75502.1"
+"501","Rhi o 1 ","Rhizopus oryzae (Bread mold) 
+米根霉（面包霉）","Aspartyl endopeptidase
+ 天冬氨酰内肽酶","Rhi o 1.0101","KM459700"
+"501","Rhi o 1 ","Rhizopus oryzae (Bread mold) 
+米根霉（面包霉）","Aspartyl endopeptidase
+ 天冬氨酰内肽酶","Rhi o 1.0101","KM459699"
+"503","Der f 8 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Glutathione S-transferase
+谷胱甘肽S-转移酶","Der f 8.0101","KC305499"
+"504","Der f 20","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Arginine kinase
+精氨酸激酶","Der f 20.0101","KM009994.1"
+"504","Der f 20","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Arginine kinase
+精氨酸激酶","Der f 20.0201","EU106619.1"
+"505","Der f 25","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Triosephosphate isomerase
+ 磷酸丙糖异构酶","Der f 25.0101","KC305500.1"
+"505","Der f 25","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Triosephosphate isomerase
+ 磷酸丙糖异构酶","Der f 25.0201","KM010004.1"
+"506","Der f 29","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Peptidyl-prolyl cis-trans isomerase (cyclophilin)
+肽基 - 脯氨酰顺反异构酶（亲环蛋白）","Der f 29.0101","AY283280.1"
+"507","Der f 27 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Serpin
+抑制物","Der f 27.0101","KM009995"
+"508","Der f 28 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Heat Shock Protein
+ 热休克蛋白","Der f 28.0101","KC305502"
+"508","Der f 28 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Heat Shock Protein
+ 热休克蛋白","Der f 28.0201","KM009992"
+"509","Der f 30 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Ferritin
+铁蛋白","Der f 30.0101","KC305503"
+"510","Der f 26 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Myosin alkali light chain
+ 肌球蛋白碱轻链","Der f 26.0101","KM009996"
+"511","Der f 31 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Cofilin
+丝切蛋白","Der f 31.0101","KM010014"
+"512","Der f 32 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Secreted inorganic pyrophosphatase
+ 分泌的无机焦磷酸酶","Der f 32.0101","KM009993"
+"513","Der f 33","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","alpha-tubulin
+α- 微管蛋白","Der f 33.0101","KM010005"
+"514","Alt a 15 "," Alternaria alternata (Alternaria plant rot fungus) 
+链格孢菌（链格孢植物腐真菌）","Serine protease
+丝氨酸蛋白酶","Alt a 15.0101","KJ558435"
+"515","Mes a 1 ","Mesocricetus auratus (Golden hamster, Syrian hamster)
+仓鼠（金色叙利亚仓鼠仓鼠） ","lipocalin
+载脂蛋白","Mes a 1.0101","AF183407.2"
+"516","Cho a 10 ","Chortoglyphus arcuatus (Storage mite)
+弓状绒螯螨（储藏螨） ","Tropomyosin
+ 原肌球蛋白","Cho a 10.0101","JN596422"
+"517","Per a 11 ","Periplaneta americana (American cockroach) 
+美洲大蠊(美洲蟑螂)","alpha amylase
+α淀粉酶","Per a 11.0101","KR019685"
+"518","Per a 12 ","Periplaneta americana (American cockroach) 
+美洲大蠊(美洲蟑螂)","Chitinase
+几丁质酶","Per a 12.0101","KR019686"
+"519","Aed a 10","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊（黄热病蚊子）","Tropomyosin
+ 原肌球蛋白","Aed a 10.0101","XM_001655904.1"
+"519","Aed a 10","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊（黄热病蚊子）","Tropomyosin
+ 原肌球蛋白","Aed a 10.0201","XM_001655898.1"
+"520","Ama r 1","Amaranthus retroflexus (Redroot pigweed) 
+猪草","Ole e 1- like protein
+","Ama r 1.0101","KR870437"
+"521","Koc s 1 ","Kochia scoparia (Burning bush) 
+地肤子","Ole e 1- like protein","Koc s 1.0101","KR870438"
+"523","Tri a 40 ","Triticum aestivum (Wheat) 
+小麦（小麦）","Chloroform/methanol-soluble (CM) 17 protein [alpha amylase inhibitor]
+氯仿/甲醇可溶性（CM）17蛋白[α淀粉酶抑制剂]","Tri a 40.0101","X59791.1"
+"524","Cha o 3 ","Chamaecyparis obtusa (Japanese cypress) 
+扁柏（日本柏树）","Cellulase (glycosyl hydrolase)
+纤维素酶（糖基水解酶）","Cha o 3.0101","HV942721"
+"525","Can f 7 ","Canis familiaris (dog) 
+犬科动物（狗）","Epididymal Secretory Protein E1, or Niemann Pick type C2 protein
+附睾分泌蛋白E1，或Niemann Pick C2型蛋白","Can f 7.0101","945178"
+"526","Pac c 3 ","Pachycondyla chinensis (Asian needle ant) 
+中华厚髁（亚洲针蚁）","Antigen 5
+抗原5","Pac c 3.0101","EU516327"
+"527","Sor h 2 ","Sorghum halepense (Johnson grass) 
+高粱(约翰逊草)","Expansin-like protein; grass pollen group 2 allergen
+膨胀素样蛋白质; 草花粉组2过敏原","Sor h 2.0101","KF887427"
+"527","Sor h 2 ","Sorghum halepense (Johnson grass) 
+高粱(约翰逊草)","Expansin-like protein; grass pollen group 2 allergen
+膨胀素样蛋白质; 草花粉组2过敏原","Sor h 2.0201","KF887428"
+"529","Der p 24 ","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","biquinol-cytochrome c reductase binding protein
+二喹啉 - 细胞色素c还原酶结合蛋白","Der p 24.0101","KP893174"
+"530","Aed a 4 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊（黄热病蚊子）","Î±-glucosidase
+ Î±葡糖苷酶","Aed a 4.0101","M30442.1"
+"531","Der p 13 ","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Cytosolic Fatty Acid Binding Protein
+ 细胞溶质脂肪酸结合蛋白","Der p 13.0101","HM560018"
+"532","Aed a 5 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊)","Sarcoplasmic Ca+ (EF-hand) binding protein
+肌浆钙+（EF-手）结合蛋白","Aed a 5.0101","XM_001653412.1"
+"533","Aed a 6 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊)","Porin3","Aed a 6.0101","XM_001654093.1"
+"534","Aed a 7 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊)","Undefined protein
+未定义蛋白","Aed a 7.0101","XM_001654241.1"
+"535","Aed a 8","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊)","Heat Shock cognate protein-70
+ 热休克同源蛋白-70","Aed a 8.0101","DQ440225.1"
+"537","Rhi o 2","Rhizopus oryzae (Bread mold) 
+米根霉（面包霉）","Cyclophilin
+亲环素","Rhi o 2.0101","KT734861"
+"538","Coc n 1 ","Cocos nucifera (Coconut)
+核桃椰子（椰子） ","vicilin-like protein
+豌豆蛋白样蛋白","Coc n 1.0101","KT880469"
+"539","Aed a 11 ","Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊)","Lysosomal aspartic protease
+溶酶体天冬氨酸蛋白酶","Aed a 11.0101","XM_001657506.1"
+"540","Der f 4 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","alpha-amylase
+ α-淀粉酶","Der f 4.0101","KJ400030"
+"541","Tyr p 28 ","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Heat shock protein
+ 热休克蛋白","Tyr p 28.0101","KX060611"
+"542","Tyr p 35","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Aldehyde dehydrogenase
+醛脱氢酶","Tyr p 35.0101","KX060612"
+"543","Tyr p 36","Tyrophagus putrescentiae (Storage mite) 
+腐螨（储藏螨）","Profilin
+肌动蛋白","Tyr p 36.0101","KX060615"
+"544","Par h 1","Parthenium hysterophorus (Feverfew) 
+光英(菊科植物)","pollen defensin-like protein 
+花粉防御素样蛋白","Par h 1.0101","KM267639"
+"545","Phod s 1","Phodopus sungorus (Siberian hamster) 
+西伯利亚仓鼠","lipocalin
+载脂蛋白","Phod s 1.0101","KF148615"
+"546","Der f 35 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","-","Der f 35.0101","LC175222"
+"547","Bet v 8 ","Betula verrucosa (Betula pendula) (European white birch) 
+桦木(桦树)(欧洲白桦树)","Glutathione-S-transferase
+谷胱甘肽S转移酶","Bet v 8.0101","KF246508"
+"548","Copt f 7 ","Coptotermes formosanus (Formosan subterranean termite) 
+台湾白蚁
+（台湾地下白蚁）","Tropomyosin
+原肌球蛋白","Copt f 7.0101","KC571878.1"
+"550","Bla g 9","Blattella germanica (German cockroach) 
+德国小蠊(德国蟑螂)","Arginine kinase
+精氨酸激酶","Bla g 9.0101","DQ358231.1"
+"551","Der f 36 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","-","Der f 36.0101","KY465506"
+"552","Der p 36 ","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","-","Der p 36.0101","KY465507"
+"554","Sal k 7 ","Salsola kali (Russian thistle, Saltwort) 
+露果猪毛菜（俄罗斯蓟，钾猪毛菜）","Polcalcin","Sal k 7.0101","KT254655"
+"555","Amb a 12","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Enolase
+烯醇化酶","Amb a 12.0101","KU593514.1"
+"555","Amb a 12","Ambrosia artemisiifolia (Short ragweed) 
+豚草（短豚草）","Enolase
+烯醇化酶","Amb a 12.0102","KU593513.1"
+"556","Pol d 3 ","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸黄蜂","Dipeptidyl peptidase IV
+ 二肽基肽酶IV","Pol d 3.0101","XM_015318959"
+"557","Sal k 6","Salsola kali (Russian thistle, Saltwort) 
+露果猪毛菜（俄罗斯蓟，钾猪毛菜）","Polygalacturonase
+多聚半乳糖","Sal k 6.0101","KY883988"
+"557","Sal k 6","Salsola kali (Russian thistle, Saltwort) 
+露果猪毛菜（俄罗斯蓟，钾猪毛菜）","Polygalacturonase
+多聚半乳糖","Sal k 6.0101","KC920919.2"
+"558","Blo t 7 ","Blomia tropicalis (Storage mite) 
+热带假丝酵母（存储螨）","Bactericidal permeability-increasing like protein
+杀菌渗透性 - 像蛋白质一样增加","Blo t 7.0101","MF740745"
+"559","Per a 5 ","Periplaneta americana (American cockroach) 
+美洲大蠊(美洲蟑螂)","Gluthathione S-transferase
+谷胱甘肽S-转移酶","Per a 5.0101","MG255130"
+"560","Art ar 2 ","Artemisia argyi (Silvery Wormwood)
+艾蒿（银艾）","PR-1","Art ar 2.0101","MF326217"
+"562","Pol d 2","Polistes dominulus (Mediterranean paper wasp) 
+地中海纸黄蜂","Hyaluronidase
+透明质酸酶","Pol d 2.0101","XM_015324236"
+"563","Der p 37","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Petrotrophic like protein domain","Der p 37.0101","MG520330"
+"564","Ole e 15","Olea europaea (Olive) 
+橄榄","Cyclophilin
+亲环素","Ole e 15.0101","MG742363"
+"565","Ole e 12","Olea europaea (Olive) 
+橄榄","Isoflavone reductase
+异黄酮还原酶","Ole e 12.0101","EU927297.1"
+"566","Ole e 13","Olea europaea (Olive) 
+橄榄","Thaumatin
+奇异果甜蛋白","Ole e 13.0101","GU084174"
+"567","Der f 23","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","Peritrophin-like protein
+Peritrophin样蛋白","Der f 23.0101","KU166910"
+"1","Aca s 13 ","Acarus siro (Storage mite) 
+螨螨(贮存螨)","Fatty acid-binding protein
+脂肪酸结合蛋白","Aca s 13.0101","DQ979802.1"
+"2","Bla g 1 ","Blattella germanica (German cockroach)
+德国小蠊（德国蟑螂） ","Major allergen Bla g 1.0101, nitrile specifier
+主要过敏原Bla g 1.0101，腈类说明","Bla g 1.0101","AF072219"
+"2","Bla g 1 ","Blattella germanica (German cockroach)
+德国小蠊（德国蟑螂） ","Major allergen Bla g 1.0101, nitrile specifier
+主要过敏原Bla g 1.0101，腈类说明","Bla g 1.0102","L47595"
+"2","Bla g 1 ","Blattella germanica (German cockroach)
+德国小蠊（德国蟑螂） ","Major allergen Bla g 1.0101, nitrile specifier
+主要过敏原Bla g 1.0101，腈类说明","Bla g 1.0201","AF072220"
+"3","Bla g 8 ","Blattella germanica (German cockroach) 
+德国小蠊（德国蟑螂）","Myosin, light chain
+ 肌球蛋白，轻链","Bla g 8.0101","DQ389157"
+"4","Cor a 10 ","Corylus avellana (Hazelnut) 
+欧榛（榛子）","Luminal binding protein
+腔内结合蛋白","Cor a 10.0101","AJ295617"
+"5","Ory s 12 ","Oryza sativa (Rice) 
+水稻","Profilin A
+A型纤溶酶原 ","Ory s 12.0101","AF310253"
+"6","Per a 1 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","major allergen Per a 1.0101, nitrile-specifier
+主要过敏原每1.0101，腈类特异性","Per a 1.0101","AF072222"
+"6","Per a 1 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","major allergen Per a 1.0101, nitrile-specifier
+主要过敏原每1.0101，腈类特异性","Per a 1.0102","U78970"
+"6","Per a 1 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","major allergen Per a 1.0101, nitrile-specifier
+主要过敏原每1.0101，腈类特异性","Per a 1.0103","U69957"
+"6","Per a 1 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","major allergen Per a 1.0101, nitrile-specifier
+主要过敏原每1.0101，腈类特异性","Per a 1.0104","U69261"
+"6","Per a 1 ","Periplaneta americana (American cockroach)
+美洲大蠊(美洲蟑螂) ","major allergen Per a 1.0101, nitrile-specifier
+主要过敏原每1.0101，腈类特异性","Per a 1.0201","U69260"
+"7","Cor a 6 ","Corylus avellana (Hazelnut) 
+欧榛（榛子）","Isoflavone reductase homologue
+ 异黄酮还原酶同系物","Cor a 6.0101","KC151261"
+"8","Aca f 1 ","Acacia farnesiana (Vachellia farnesiana) (Needle bush) 
+金合欢(金合欢)(针衬)","Ole e 1-like protein","Aca f 1.0101","KR870435.1"
+"9","Der f 34 ","Dermatophagoides farinae (American house dust mite) 
+粉螨（美国屋尘螨）","enamine/imine deaminase
+ 烯胺/亚胺脱氨酶","Der f 34.0101","LC120618"
+"10","Ulo c 1","Ulocladium chartarum (Black mold Alternaria) 
+黑霉交链孢属","Alt a 1 homologue
+Alt a 1同系物","Ulo c 1.0101","MH716394"
+"11","Art an 7 ","Artemisia annua (Sweet Wormwood) 
+青蒿（甜艾蒿）","Putative Galactose Oxidase
+推定的半乳糖氧化酶","Art an 7.0101","KY428925"
+"12","Ole e 14","Olea europaea (Olive) 
+橄榄","Polygalacturonase
+ 多聚半乳糖","Ole e 14.0101","KC920918"
+"13","Per a 13","Periplaneta americana (American cockroach) 
+美洲大蠊","Glyceraldehyde-3-phosphate dehydrogenase
+甘油醛-3-磷酸脱氢酶","Per a 13.0101","MG775273"
+"15","Der p 38","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Bacterial lytic enzyme
+细菌裂解酶","Der p 38.0101","KF113885.1"
+"16","Der p 25","Dermatophagoides pteronyssinus (European house dust mite) 
+翼螨（欧洲屋尘螨）","Triosphosphate isomerase
+ 三磷酸异构酶","Der p 25.0101","MH618506"
+"17","Que m 1","Quercus mongolica (Mongolian Oak) 
+蒙古栎","Pathogenesis protein 10
+发病机制蛋白10","Que m 1.0101","KY744741"
+"1","Tri r 2 ","Trichophyton rubrum 
+红色毛癣菌","Putative secreted alkaline protease Alp1
+推定分泌的碱性蛋白酶Alp1","Tri r 2.0101","AF082515"
+"2","Tri r 4 ","Trichophyton rubrum 
+红色毛癣菌","Serine protease
+ 丝氨酸蛋白酶","Tri r 4.0101","AF082514"
+"1","Aed a 2 ","
+Aedes aegypti (Yellow fever mosquito) 
+埃及伊蚊(黄热病蚊子)","Salivary D7 protein
+ 唾液D7蛋白","Aed a 2.0101","M33156"
